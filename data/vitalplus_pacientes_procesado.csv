@@ -1,561 +1,561 @@
-id_paciente,edad,sede,tipo_examen,fecha_cita,dias_espera_cita,duracion_minutos,costo_examen,canal_remision,calificacion_satisfaccion,reingreso_30dias
-5388,37.0,Bogotá,Radiografía,2023-10-23,14,9.0,980000.0,EPS,3.0,0
-5455,43.0,Cali,Resonancia,2024-04-28,6,57.0,2783750.0,Particular,5.0,0
-5533,49.0,Bogotá,Laboratorio,2025-12-31,6,9.0,510000.0,Particular,2.0,0
-5281,46.0,Desconocido,Ecografía,2024-03-24,2,28.0,1430000.0,Remitido,4.0,0
-5324,40.0,Cali,Ecografía,2025-10-07,10,27.0,1440000.0,Remitido,3.0,0
-5359,49.0,Bogotá,Ecografía,2025-08-27,5,35.0,1970000.0,Remitido,3.0,0
-5049,34.0,Bogotá,Radiografía,2025-10-23,8,19.0,1000000.0,Medicina prepagada,5.0,0
-5521,35.0,Cali,Ecografía,2023-01-14,5,35.0,2080000.0,Medicina prepagada,5.0,0
-5145,34.0,Bogotá,Laboratorio,2024-07-08,5,9.0,1080000.0,EPS,5.0,0
-5513,26.0,Bogotá,Laboratorio,2023-05-12,6,12.0,1240000.0,EPS,1.0,0
-5062,37.0,Bogotá,Laboratorio,2023-02-22,90,10.0,1050000.0,EPS,5.0,0
-5015,45.0,Bucaramanga,Radiografía,2023-01-30,3,21.0,1070000.0,EPS,2.0,0
-5273,74.0,Bogotá,Radiografía,2024-02-02,4,15.0,85000.0,EPS,4.0,1
-5113,27.0,Bogotá,Laboratorio,2024-03-16,12,9.0,830000.0,Medicina prepagada,1.0,1
-5527,49.0,Bucaramanga,Resonancia,2023-10-11,4,57.0,2783750.0,EPS,1.0,1
-5233,51.0,Cali,Ecografía,2024-12-29,7,32.0,1730000.0,Medicina prepagada,5.0,0
-5316,47.0,Bogotá,Radiografía,2024-12-31,6,17.0,1100000.0,EPS,1.0,0
-5358,44.0,Bucaramanga,Laboratorio,2023-09-28,4,9.0,970000.0,EPS,2.0,0
-5169,45.0,Bogotá,Laboratorio,2024-03-10,7,10.0,1200000.0,Remitido,5.0,0
-5417,88.0,Bogotá,Radiografía,2025-01-10,11,15.0,1010000.0,Remitido,4.0,0
-5068,64.0,Cali,Laboratorio,2024-02-22,2,7.0,660000.0,Particular,3.0,0
-5059,43.0,Medellín,Radiografía,2023-03-10,4,17.0,680000.0,EPS,3.0,0
-5112,54.0,Cali,Tomografía,2023-12-17,9,34.0,1920000.0,EPS,4.0,0
-5551,49.0,Cali,Radiografía,2023-08-24,8,14.0,900000.0,Remitido,3.0,0
-5038,60.0,Bogotá,Tomografía,2023-10-15,9,29.0,1390000.0,Particular,2.0,0
-5160,34.0,Medellín,Ecografía,2025-03-25,4,29.0,1260000.0,Particular,2.0,0
-5104,83.0,Cali,Ecografía,2023-05-23,7,3.0,320000.0,Medicina prepagada,5.0,0
-5219,30.0,Bucaramanga,Ecografía,2024-03-06,5,20.0,1280000.0,Particular,4.0,0
-5204,60.0,Bogotá,Radiografía,2025-02-24,9,11.0,1110000.0,EPS,2.0,0
-5346,22.0,Bucaramanga,Radiografía,2025-04-20,5,18.0,1310000.0,Medicina prepagada,4.0,0
-5011,53.0,Bogotá,Laboratorio,2025-02-02,10,10.0,980000.0,Medicina prepagada,3.0,0
-5102,30.0,Bucaramanga,Tomografía,2025-07-27,4,35.0,1950000.0,EPS,4.0,0
-5552,47.0,Medellín,Ecografía,2024-12-08,6,17.0,1350000.0,EPS,1.0,0
-5488,28.0,Cali,Ecografía,2025-07-01,11,26.5,2310000.0,Particular,1.0,0
-5361,54.0,Bucaramanga,Laboratorio,2025-05-29,4,11.0,880000.0,EPS,2.0,0
-5143,44.0,Bogotá,Tomografía,2024-12-02,5,25.0,1440000.0,EPS,4.0,0
-5473,55.0,Medellín,Ecografía,2025-01-26,2,18.0,1430000.0,EPS,3.0,1
-5046,19.0,Bogotá,Tomografía,2024-09-05,3,42.0,2010000.0,EPS,1.0,1
-5028,36.0,Medellín,Radiografía,2024-02-10,4,15.0,840000.0,Remitido,1.0,0
-5262,59.0,Medellín,Laboratorio,2024-05-22,3,10.0,830000.0,Particular,4.0,0
-5131,31.0,Medellín,Radiografía,2023-05-18,8,19.0,1000000.0,EPS,5.0,0
-5376,83.0,Cali,Radiografía,2025-04-30,4,15.0,1270000.0,Remitido,5.0,0
-5054,55.0,Bogotá,Ecografía,2025-12-03,5,19.0,1840000.0,Particular,4.0,0
-5460,16.0,Cali,Resonancia,2025-12-13,7,57.0,2783750.0,Remitido,3.0,1
-5082,40.0,Bogotá,Ecografía,2024-04-12,7,26.5,2783750.0,EPS,5.0,0
-5092,56.0,Bogotá,Radiografía,2023-05-10,6,13.0,950000.0,Remitido,2.0,0
-5074,43.0,Cali,Radiografía,2024-08-02,9,15.0,520000.0,Remitido,3.0,0
-5044,46.0,Cali,Ecografía,2025-06-08,2,25.0,1040000.0,EPS,1.0,0
-5385,64.0,Medellín,Radiografía,2024-05-14,9,12.0,820000.0,EPS,3.0,1
-5429,36.0,Cali,Laboratorio,2023-07-31,6,8.0,690000.0,Desconocido,5.0,0
-5050,79.0,Bogotá,Tomografía,2023-08-04,3,32.0,1700000.0,Particular,4.0,0
-5081,38.0,Cali,Ecografía,2024-11-14,10,14.0,1430000.0,EPS,5.0,0
-5133,47.0,Medellín,Ecografía,2025-03-21,8,23.0,1550000.0,Particular,3.0,0
-5029,44.0,Cali,Ecografía,2024-07-29,6,21.0,1530000.0,Particular,5.0,0
-5492,29.0,Cali,Tomografía,2025-11-29,7,38.0,1700000.0,EPS,1.0,1
-5171,32.0,Cali,Tomografía,2023-09-14,5,36.0,1610000.0,Particular,4.0,0
-5158,31.0,Bogotá,Radiografía,2023-09-02,9,17.0,960000.0,Desconocido,1.0,0
-5244,46.0,Cali,Radiografía,2023-07-19,7,15.0,1000000.0,EPS,1.0,0
-5402,52.0,Medellín,Ecografía,2025-05-09,8,32.0,2160000.0,Particular,1.0,0
-5207,26.0,Bucaramanga,Ecografía,2025-06-14,2,23.0,1030000.0,Medicina prepagada,5.0,0
-5487,19.0,Medellín,Laboratorio,2023-04-10,2,6.0,600000.0,EPS,3.0,1
-5375,56.0,Bogotá,Radiografía,2025-08-11,10,21.0,1220000.0,Medicina prepagada,4.0,0
-5127,9.0,Medellín,Tomografía,2025-01-02,4,50.0,2520000.0,EPS,2.0,0
-5467,27.0,Bucaramanga,Ecografía,2025-06-20,8,30.0,1590000.0,Particular,4.0,1
-5479,77.0,Bogotá,Tomografía,2024-11-20,5,23.0,1790000.0,EPS,4.0,0
-5458,30.0,Bogotá,Radiografía,2025-07-23,5,18.0,620000.0,EPS,1.0,1
-5392,39.0,Bogotá,Ecografía,2025-05-12,1,26.0,1650000.0,Remitido,1.0,0
-5469,26.0,Bogotá,Radiografía,2024-07-06,5,18.0,1430000.0,EPS,5.0,0
-5017,22.0,Medellín,Radiografía,2023-12-19,3,19.0,1370000.0,EPS,3.0,0
-5470,51.0,Bogotá,Ecografía,2024-11-22,5,30.0,1640000.0,Remitido,5.0,0
-5549,47.0,Cali,Ecografía,2024-01-23,9,19.0,1150000.0,Particular,4.0,0
-5181,38.0,Medellín,Radiografía,2024-10-18,4,14.0,1200000.0,Particular,4.0,0
-5130,58.0,Cali,Radiografía,2024-10-20,10,20.0,560000.0,EPS,3.0,0
-5103,48.0,Medellín,Ecografía,2023-02-10,5,22.0,1430000.0,Medicina prepagada,3.0,0
-5128,59.0,Bogotá,Radiografía,2025-09-14,8,14.0,570000.0,EPS,5.0,0
-5339,63.0,Medellín,Laboratorio,2025-01-30,5,10.0,98000.0,EPS,1.0,0
-5135,66.0,Medellín,Ecografía,2025-07-07,9,27.0,1570000.0,Remitido,3.0,1
-5195,54.0,Bogotá,Radiografía,2024-06-24,5,14.0,1110000.0,Remitido,5.0,0
-5494,39.0,Bogotá,Radiografía,2023-02-26,5,12.0,1000000.0,Medicina prepagada,4.0,0
-5240,20.0,Bogotá,Resonancia,2023-12-15,10,24.0,1210000.0,Particular,1.0,0
-5434,40.0,Medellín,Ecografía,2025-02-04,8,29.0,1630000.0,Medicina prepagada,5.0,0
-5457,61.0,Bucaramanga,Tomografía,2025-01-12,9,34.0,1810000.0,EPS,4.0,0
-5080,71.0,Bogotá,Ecografía,2024-12-07,9,33.0,1600000.0,Medicina prepagada,3.0,0
-5041,47.0,Cali,Radiografía,2025-03-29,7,12.0,1300000.0,EPS,1.0,0
-5230,30.0,Bogotá,Ecografía,2024-06-30,7,32.0,2170000.0,Medicina prepagada,4.0,0
-5433,31.0,Bogotá,Laboratorio,2025-08-23,6,12.0,920000.0,Medicina prepagada,3.0,0
-5311,44.0,Bogotá,Laboratorio,2025-12-02,5,9.0,830000.0,Medicina prepagada,5.0,0
-5096,55.0,Bucaramanga,Desconocido,2025-10-06,6,9.0,930000.0,Medicina prepagada,3.0,0
-5404,62.0,Cali,Laboratorio,2023-02-11,90,8.0,700000.0,EPS,5.0,0
-5122,35.0,Bogotá,Ecografía,2025-07-17,6,28.0,1090000.0,Particular,1.0,1
-5211,45.0,Bogotá,Laboratorio,2025-01-08,12,9.0,880000.0,Particular,1.0,1
-5245,40.0,Medellín,Ecografía,2024-06-10,9,15.0,1250000.0,EPS,5.0,0
-5297,49.0,Bogotá,Radiografía,2023-05-04,4,9.0,930000.0,EPS,5.0,0
-5154,45.0,Bogotá,Laboratorio,2025-03-02,4,10.0,620000.0,Particular,1.0,0
-5058,56.0,Bogotá,Ecografía,2025-12-21,8,37.0,1750000.0,EPS,5.0,0
-5108,53.0,Cali,Radiografía,2023-02-03,7,19.0,1610000.0,EPS,3.0,0
-5132,58.0,Cali,Radiografía,2024-10-16,2,17.0,1000000.0,Particular,5.0,0
-5503,28.0,Bogotá,Laboratorio,2023-10-08,5,11.0,1220000.0,Particular,5.0,0
-5318,41.0,Desconocido,Ecografía,2024-03-30,4,29.0,153000.0,Medicina prepagada,2.0,0
-5193,61.0,Bogotá,Ecografía,2025-11-10,1,18.0,1130000.0,Remitido,4.0,0
-5390,43.0,Medellín,Tomografía,2023-08-27,7,50.0,2750000.0,Remitido,4.0,0
-5410,13.0,Medellín,Radiografía,2023-07-17,12,14.0,1130000.0,EPS,5.0,0
-5330,79.0,Medellín,Tomografía,2023-10-25,8,45.0,2340000.0,Medicina prepagada,5.0,0
-5186,45.0,Bogotá,Tomografía,2024-03-03,15,26.0,1420000.0,EPS,1.0,0
-5371,42.0,Bucaramanga,Tomografía,2025-07-29,9,44.0,1780000.0,Particular,2.0,0
-5405,49.0,Bogotá,Ecografía,2023-12-23,4,28.0,1450000.0,EPS,1.0,1
-5125,26.0,Bucaramanga,Ecografía,2024-05-28,6,21.0,570000.0,EPS,1.0,0
-5162,51.0,Bogotá,Laboratorio,2023-02-05,7,7.0,950000.0,Particular,3.0,0
-5170,46.0,Bucaramanga,Resonancia,2023-06-14,4,47.0,2235000.0,Medicina prepagada,1.0,0
-5559,50.0,Bogotá,Tomografía,2024-02-04,11,26.0,1440000.0,EPS,4.0,0
-5075,66.0,Medellín,Laboratorio,2025-01-28,3,10.0,510000.0,EPS,3.0,0
-5289,36.0,Medellín,Radiografía,2025-05-21,9,7.0,200000.0,Particular,3.0,0
-5299,42.0,Bogotá,Ecografía,2025-03-10,3,23.0,1440000.0,EPS,2.0,0
-5411,68.0,Bucaramanga,Resonancia,2023-02-01,9,36.0,1950000.0,Remitido,1.0,1
-5187,65.0,Bogotá,Radiografía,2023-07-08,0,18.0,1140000.0,Remitido,4.0,0
-5444,36.0,Bogotá,Tomografía,2024-05-06,4,36.0,1790000.0,Remitido,5.0,0
-5292,72.0,Bogotá,Laboratorio,2023-01-24,11,7.0,450000.0,Remitido,3.0,0
-5202,60.0,Cali,Tomografía,2025-06-25,4,0.0,2040000.0,Medicina prepagada,4.0,0
-5468,32.0,Bogotá,Radiografía,2024-01-31,4,27.0,1720000.0,Medicina prepagada,5.0,0
-5514,44.0,Medellín,Radiografía,2023-09-30,4,10.0,810000.0,EPS,5.0,0
-5138,40.0,Medellín,Radiografía,2025-12-23,8,10.0,550000.0,Remitido,3.0,0
-5255,25.0,Bogotá,Radiografía,2025-07-19,7,19.0,1060000.0,EPS,3.0,0
-5472,33.0,Medellín,Resonancia,2023-09-08,7,42.0,1880000.0,Medicina prepagada,4.0,1
-5194,43.0,Cali,Ecografía,2024-09-09,5,30.0,2100000.0,Particular,5.0,0
-5117,49.0,Medellín,Tomografía,2024-08-16,6,35.0,1830000.0,EPS,3.0,0
-5323,71.0,Bogotá,Ecografía,2025-08-02,9,21.0,540000.0,Remitido,3.0,0
-5426,63.0,Bogotá,Radiografía,2024-01-27,1,17.0,1220000.0,Remitido,5.0,0
-5437,44.0,Bogotá,Ecografía,2023-03-22,11,33.0,1480000.0,EPS,4.0,0
-5534,45.0,Bucaramanga,Radiografía,2025-09-22,2,20.0,1300000.0,Remitido,3.0,0
-5156,40.0,Bucaramanga,Laboratorio,2025-06-22,3,12.0,900000.0,EPS,5.0,0
-5215,49.0,Bucaramanga,Resonancia,2023-02-28,2,52.0,2030000.0,Remitido,5.0,0
-5351,30.0,Medellín,Radiografía,2023-06-30,6,14.0,900000.0,EPS,3.0,0
-5465,64.0,Bogotá,Ecografía,2025-10-27,7,28.0,1210000.0,EPS,4.0,0
-5294,61.0,Bogotá,Resonancia,2023-08-06,6,39.0,2470000.0,EPS,2.0,0
-5348,43.0,Cali,Radiografía,2023-08-22,7,13.0,840000.0,Medicina prepagada,1.0,1
-5430,37.0,Cali,Resonancia,2025-03-14,8,31.0,2500000.0,EPS,5.0,0
-5327,45.0,Medellín,Radiografía,2024-07-09,7,13.0,600000.0,Remitido,5.0,0
-5391,38.0,Bogotá,Resonancia,2023-10-10,8,31.0,1640000.0,Desconocido,1.0,0
-5210,28.0,Medellín,Laboratorio,2024-01-16,3,16.0,700000.0,Particular,5.0,0
-5357,40.0,Cali,Laboratorio,2024-02-06,6,14.0,800000.0,Medicina prepagada,3.0,0
-5271,45.0,Medellín,Tomografía,2025-12-19,6,43.0,2100000.0,Particular,5.0,0
-5320,60.0,Bucaramanga,Laboratorio,2025-06-23,4,6.0,930000.0,EPS,4.0,0
-5252,36.0,Medellín,Ecografía,2023-09-12,5,31.0,1550000.0,Particular,4.0,0
-5412,43.0,Bogotá,Laboratorio,2025-06-02,5,11.0,810000.0,Medicina prepagada,3.0,0
-5019,13.0,Medellín,Laboratorio,2024-04-17,6,6.0,950000.0,Medicina prepagada,1.0,0
-5322,55.0,Bogotá,Ecografía,2024-04-03,5,23.0,2500000.0,Particular,5.0,0
-5536,46.0,Bogotá,Resonancia,2024-09-16,4,51.0,2190000.0,Particular,1.0,0
-5088,37.0,Bogotá,Tomografía,2024-07-16,3,37.0,1940000.0,EPS,5.0,0
-5242,58.0,Bogotá,Laboratorio,2025-02-22,13,5.0,820000.0,EPS,1.0,0
-5483,48.0,Cali,Radiografía,2024-05-10,9,19.0,1460000.0,Remitido,5.0,0
-5350,29.0,Bogotá,Radiografía,2023-06-07,6,14.0,990000.0,EPS,5.0,0
-5052,25.0,Bogotá,Radiografía,2025-09-29,4,15.0,1010000.0,Remitido,5.0,0
-5416,26.0,Bogotá,Laboratorio,2025-01-24,3,6.0,92000.0,EPS,2.0,0
-5419,72.0,Medellín,Radiografía,2024-05-12,6,16.0,1240000.0,Remitido,4.0,1
-5489,22.0,Cali,Radiografía,2024-11-10,9,19.0,1290000.0,Particular,3.0,0
-5031,19.0,Bogotá,Laboratorio,2023-05-06,6,15.0,840000.0,Desconocido,2.0,1
-5067,60.0,Medellín,Laboratorio,2024-04-30,7,9.0,78000.0,EPS,4.0,0
-5436,23.0,Bogotá,Laboratorio,2025-06-29,9,11.0,1500000.0,EPS,1.0,1
-5449,32.0,Medellín,Radiografía,2025-11-13,10,16.0,1140000.0,EPS,5.0,0
-5377,49.0,Medellín,Ecografía,2024-07-31,3,31.0,1880000.0,Medicina prepagada,2.0,0
-5267,33.0,Bogotá,Radiografía,2025-01-12,6,12.0,1050000.0,Remitido,3.0,0
-5529,33.0,Cali,Ecografía,2024-02-18,4,18.0,1260000.0,EPS,2.0,0
-5360,44.0,Bogotá,Laboratorio,2024-09-20,5,10.0,780000.0,EPS,2.0,0
-5451,42.0,Bogotá,Tomografía,2025-10-11,3,39.0,2060000.0,EPS,5.0,0
-5016,57.0,Bucaramanga,Ecografía,2024-01-04,10,39.0,167000.0,Remitido,3.0,0
-5189,52.0,Bogotá,Resonancia,2024-12-23,5,29.0,1530000.0,Medicina prepagada,5.0,0
-5198,61.0,Bogotá,Ecografía,2025-06-18,5,27.0,1430000.0,Medicina prepagada,1.0,0
-5347,46.0,Bogotá,Laboratorio,2023-11-18,8,12.0,930000.0,EPS,4.0,0
-5295,56.0,Bogotá,Laboratorio,2025-04-16,8,15.0,830000.0,Remitido,4.0,0
-5176,24.0,Bogotá,Radiografía,2023-04-14,5,16.0,1350000.0,Remitido,4.0,0
-5309,39.0,Bucaramanga,Radiografía,2024-10-02,6,8.0,840000.0,Medicina prepagada,2.0,1
-5212,59.0,Bucaramanga,Tomografía,2025-04-04,5,38.0,1800000.0,EPS,3.0,0
-5303,44.0,Medellín,Desconocido,2023-01-22,4,25.0,1440000.0,Remitido,1.0,0
-5374,33.0,Bogotá,Ecografía,2023-05-20,9,31.0,1710000.0,Medicina prepagada,5.0,0
-5441,34.0,Bogotá,Tomografía,2025-08-19,1,48.0,2390000.0,Particular,5.0,0
-5109,42.0,Bogotá,Radiografía,2024-04-05,6,16.0,1150000.0,Medicina prepagada,3.0,1
-5542,48.0,Medellín,Resonancia,2025-04-14,6,54.0,2330000.0,EPS,5.0,0
-5408,59.0,Cali,Ecografía,2024-08-12,7,17.0,1100000.0,Medicina prepagada,4.0,0
-5304,35.0,Bogotá,Ecografía,2024-09-10,4,23.0,1370000.0,Remitido,5.0,1
-5400,32.0,Bucaramanga,Resonancia,2023-06-24,2,35.0,2040000.0,EPS,3.0,0
-5280,44.0,Bogotá,Radiografía,2025-08-25,10,15.0,1300000.0,Particular,1.0,0
-5026,42.0,Cali,Ecografía,2025-03-06,4,13.0,870000.0,EPS,1.0,0
-5137,44.0,Bogotá,Radiografía,2025-02-16,5,14.0,1180000.0,Particular,3.0,0
-5263,54.0,Bogotá,Laboratorio,2024-06-03,6,11.0,1330000.0,Desconocido,3.0,0
-5175,26.0,Cali,Laboratorio,2023-05-22,8,12.0,850000.0,EPS,1.0,0
-5047,60.0,Cali,Laboratorio,2023-04-11,8,14.0,1140000.0,EPS,3.0,0
-5517,77.0,Bogotá,Laboratorio,2023-01-28,5,10.0,480000.0,EPS,4.0,0
-5084,43.0,Cali,Resonancia,2023-09-22,9,52.0,2510000.0,EPS,1.0,0
-5119,62.0,Bogotá,Desconocido,2025-09-12,5,23.0,1270000.0,EPS,1.0,0
-5480,40.0,Medellín,Ecografía,2025-09-18,9,16.0,820000.0,EPS,1.0,0
-5225,44.0,Medellín,Tomografía,2024-06-26,3,33.0,1570000.0,Medicina prepagada,5.0,0
-5167,15.0,Medellín,Laboratorio,2024-08-24,5,12.0,1000000.0,Particular,2.0,0
-5236,21.0,Bogotá,Resonancia,2023-03-28,3,52.0,2150000.0,Medicina prepagada,5.0,0
-5190,35.0,Medellín,Ecografía,2025-10-13,5,19.0,800000.0,Desconocido,5.0,0
-5526,43.0,Bogotá,Radiografía,2023-04-20,3,10.0,660000.0,EPS,3.0,0
-5453,44.0,Bucaramanga,Laboratorio,2024-10-14,2,7.0,500000.0,EPS,5.0,0
-5285,65.0,Medellín,Ecografía,2023-08-10,6,30.0,1630000.0,EPS,4.0,1
-5269,23.0,Bogotá,Laboratorio,2023-10-19,6,10.0,990000.0,Remitido,1.0,0
-5060,34.0,Cali,Resonancia,2025-10-15,8,57.0,2235000.0,EPS,5.0,0
-5560,52.0,Bogotá,Laboratorio,2023-02-20,5,10.0,870000.0,Remitido,3.0,0
-5106,43.0,Medellín,Laboratorio,2025-10-17,6,5.0,710000.0,EPS,2.0,0
-5139,42.0,Cali,Laboratorio,2023-12-21,7,7.0,650000.0,Particular,3.0,0
-5056,57.0,Bogotá,Radiografía,2024-03-26,2,11.0,660000.0,Medicina prepagada,1.0,0
-5554,38.0,Cali,Radiografía,2023-12-01,8,57.0,990000.0,EPS,3.0,0
-5234,51.0,Bucaramanga,Tomografía,2023-10-01,6,34.0,1890000.0,EPS,4.0,0
-5057,44.0,Medellín,Tomografía,2023-11-12,3,48.0,2020000.0,Particular,5.0,0
-5476,28.0,Cali,Ecografía,2025-04-02,7,21.0,1280000.0,Remitido,3.0,0
-5343,78.0,Bogotá,Radiografía,2025-03-18,5,18.0,79000.0,EPS,1.0,0
-5238,43.0,Bucaramanga,Resonancia,2025-03-27,10,53.0,2270000.0,Medicina prepagada,2.0,0
-5089,65.0,Bogotá,Tomografía,2025-09-27,7,25.0,1190000.0,EPS,1.0,0
-5353,50.0,Medellín,Radiografía,2025-11-04,4,12.0,1450000.0,Particular,4.0,1
-5025,48.0,Bogotá,Ecografía,2023-09-10,6,24.0,1420000.0,EPS,1.0,1
-5115,46.0,Cali,Ecografía,2025-11-15,5,19.0,1150000.0,EPS,3.0,0
-5140,28.0,Bogotá,Tomografía,2024-05-24,11,39.0,2180000.0,EPS,2.0,0
-5105,31.0,Bogotá,Tomografía,2025-11-08,3,36.0,1770000.0,Medicina prepagada,5.0,0
-5205,77.0,Medellín,Laboratorio,2025-01-31,7,10.0,830000.0,Medicina prepagada,3.0,0
-5032,37.0,Bogotá,Ecografía,2023-03-04,5,17.0,131000.0,Particular,3.0,1
-5525,55.0,Bogotá,Laboratorio,2025-01-18,1,6.0,650000.0,Remitido,4.0,0
-5228,34.0,Medellín,Radiografía,2025-12-25,4,18.0,770000.0,Particular,2.0,0
-5288,71.0,Bogotá,Laboratorio,2024-08-10,5,10.0,1340000.0,Remitido,3.0,0
-5313,38.0,Bogotá,Radiografía,2024-10-31,7,17.0,1030000.0,Medicina prepagada,2.0,1
-5270,43.0,Bogotá,Resonancia,2024-04-24,7,43.0,1980000.0,EPS,1.0,1
-5506,38.0,Medellín,Laboratorio,2023-08-20,5,9.0,640000.0,EPS,3.0,0
-5024,50.0,Medellín,Laboratorio,2023-12-27,2,8.0,440000.0,Particular,3.0,0
-5248,8.0,Medellín,Radiografía,2024-10-24,5,15.0,670000.0,EPS,2.0,1
-5165,41.0,Medellín,Ecografía,2025-05-07,1,35.0,1840000.0,Particular,5.0,0
-5545,0.0,Bogotá,Laboratorio,2023-03-26,1,11.0,1300000.0,EPS,2.0,1
-5341,49.0,Cali,Laboratorio,2023-05-14,4,10.0,1110000.0,EPS,4.0,0
-5055,42.0,Cali,Desconocido,2023-08-08,5,9.0,1000000.0,Particular,3.0,0
-5528,42.0,Bogotá,Tomografía,2023-04-12,7,32.0,1740000.0,Medicina prepagada,3.0,0
-5129,15.0,Medellín,Radiografía,2025-02-10,10,14.0,1630000.0,EPS,1.0,0
-5098,51.0,Medellín,Radiografía,2025-10-19,3,14.0,820000.0,Remitido,3.0,0
-5124,11.0,Medellín,Laboratorio,2025-11-27,8,11.0,830000.0,Medicina prepagada,5.0,0
-5356,50.0,Medellín,Ecografía,2024-06-01,9,35.0,1450000.0,Desconocido,2.0,0
-5440,45.0,Bogotá,Resonancia,2024-06-16,6,57.0,2783750.0,EPS,4.0,0
-5362,77.0,Medellín,Tomografía,2023-03-12,10,43.0,201000.0,Medicina prepagada,1.0,0
-5331,41.0,Bucaramanga,Radiografía,2023-02-17,7,13.0,310000.0,Medicina prepagada,4.0,0
-5471,31.0,Bogotá,Radiografía,2024-04-13,6,12.0,610000.0,EPS,5.0,0
-5099,43.0,Medellín,Ecografía,2025-11-21,6,20.0,640000.0,Medicina prepagada,2.0,0
-5531,41.0,Bogotá,Laboratorio,2025-11-17,6,14.0,480000.0,Remitido,4.0,0
-5241,37.0,Bucaramanga,Radiografía,2024-12-15,8,12.0,880000.0,Remitido,4.0,0
-5462,27.0,Bogotá,Radiografía,2023-04-06,2,17.0,860000.0,Medicina prepagada,1.0,1
-5387,63.0,Medellín,Laboratorio,2024-02-24,10,9.0,540000.0,Remitido,1.0,1
-5203,53.0,Bogotá,Ecografía,2024-09-12,6,22.0,1410000.0,EPS,1.0,0
-5004,30.0,Bogotá,Ecografía,2025-09-08,2,37.0,2200000.0,EPS,4.0,0
-5557,53.0,Cali,Ecografía,2024-10-28,6,28.0,1470000.0,EPS,2.0,0
-5305,34.0,Cali,Ecografía,2023-02-13,6,22.0,1620000.0,Remitido,3.0,0
-5178,36.0,Bogotá,Ecografía,2025-05-25,8,24.0,1290000.0,Medicina prepagada,1.0,0
-5553,43.0,Bucaramanga,Radiografía,2024-07-20,7,11.0,750000.0,EPS,4.0,0
-5307,54.0,Bogotá,Radiografía,2025-02-28,4,17.0,850000.0,EPS,4.0,0
-5231,43.0,Cali,Radiografía,2023-01-06,7,19.0,910000.0,EPS,3.0,1
-5147,66.0,Medellín,Ecografía,2024-03-28,5,31.0,1250000.0,EPS,3.0,0
-5272,22.0,Bogotá,Radiografía,2023-10-31,9,15.0,850000.0,Particular,5.0,0
-5464,44.0,Bucaramanga,Laboratorio,2025-05-02,4,8.0,580000.0,EPS,3.0,1
-5378,32.0,Cali,Laboratorio,2024-10-29,9,8.0,830000.0,Remitido,4.0,0
-5261,46.0,Desconocido,Radiografía,2023-07-25,7,10.0,830000.0,EPS,2.0,1
-5191,22.0,Bogotá,Radiografía,2023-03-18,9,13.0,1000000.0,EPS,3.0,0
-5454,27.0,Bogotá,Ecografía,2025-08-21,6,28.0,143000.0,Medicina prepagada,2.0,0
-5544,38.0,Cali,Radiografía,2025-03-08,4,16.0,1190000.0,EPS,3.0,0
-5197,59.0,Cali,Ecografía,2023-06-20,3,22.0,1320000.0,Particular,4.0,0
-5141,64.0,Medellín,Ecografía,2024-09-26,5,27.0,1200000.0,Medicina prepagada,1.0,0
-5083,51.0,Medellín,Ecografía,2023-10-21,7,22.0,1530000.0,EPS,1.0,1
-5335,24.0,Bogotá,Radiografía,2024-09-28,4,16.0,1080000.0,EPS,2.0,1
-5556,17.0,Bogotá,Radiografía,2025-03-10,3,13.0,970000.0,EPS,5.0,0
-5085,42.0,Medellín,Radiografía,2024-07-14,7,13.0,890000.0,Particular,4.0,0
-5332,42.0,Cali,Laboratorio,2025-09-06,6,11.0,900000.0,Medicina prepagada,5.0,0
-5543,42.0,Cali,Radiografía,2025-12-29,5,17.0,990000.0,EPS,2.0,0
-5180,44.0,Medellín,Resonancia,2025-08-10,7,57.0,2240000.0,Medicina prepagada,3.0,0
-5100,10.0,Bogotá,Laboratorio,2024-08-30,1,10.0,1140000.0,Particular,3.0,1
-5008,68.0,Bogotá,Desconocido,2025-02-06,4,21.0,1280000.0,EPS,5.0,0
-5274,70.0,Medellín,Ecografía,2023-02-07,4,25.0,1360000.0,Particular,1.0,0
-5155,39.0,Cali,Ecografía,2024-04-26,2,24.0,1610000.0,EPS,2.0,0
-5337,43.0,Bogotá,Radiografía,2024-08-20,4,19.0,1410000.0,Medicina prepagada,2.0,1
-5192,61.0,Bogotá,Radiografía,2023-03-14,4,12.0,1000000.0,Particular,1.0,0
-5334,50.0,Medellín,Tomografía,2024-11-26,5,26.0,1610000.0,EPS,3.0,1
-5386,63.0,Bucaramanga,Laboratorio,2024-11-04,5,11.0,520000.0,EPS,3.0,0
-5051,58.0,Bucaramanga,Radiografía,2023-03-30,5,15.0,670000.0,Medicina prepagada,2.0,1
-5039,35.0,Bucaramanga,Ecografía,2025-07-13,6,22.0,1100000.0,EPS,2.0,1
-5006,28.0,Medellín,Ecografía,2024-12-12,3,26.5,1270000.0,Medicina prepagada,2.0,0
-5076,57.0,Bogotá,Resonancia,2023-06-03,9,42.0,2230000.0,Remitido,2.0,1
-5249,33.0,Bogotá,Radiografía,2023-02-06,5,21.0,850000.0,Remitido,3.0,0
-5048,47.0,Medellín,Resonancia,2023-11-24,6,37.0,1820000.0,EPS,2.0,0
-5071,56.0,Medellín,Radiografía,2023-01-18,4,19.0,1440000.0,Particular,5.0,0
-5319,30.0,Bogotá,Desconocido,2023-11-14,6,21.0,2430000.0,EPS,3.0,0
-5226,52.0,Medellín,Laboratorio,2023-06-16,8,12.0,880000.0,Particular,4.0,0
-5287,45.0,Bucaramanga,Radiografía,2023-01-20,10,20.0,1220000.0,EPS,1.0,0
-5012,51.0,Bogotá,Resonancia,2025-04-05,3,55.0,2550000.0,EPS,2.0,0
-5151,33.0,Bucaramanga,Tomografía,2025-08-13,4,30.0,1610000.0,Medicina prepagada,3.0,0
-5421,48.0,Medellín,Ecografía,2025-08-17,6,17.0,1150000.0,EPS,5.0,0
-5116,27.0,Medellín,Laboratorio,2025-05-10,9,13.0,930000.0,EPS,3.0,0
-5282,43.0,Bogotá,Laboratorio,2025-07-11,7,13.0,1070000.0,Remitido,5.0,0
-5254,46.0,Cali,Ecografía,2024-11-18,8,28.0,1390000.0,EPS,4.0,0
-5196,58.0,Bogotá,Ecografía,2023-04-26,5,27.0,1620000.0,EPS,3.0,1
-5538,35.0,Medellín,Tomografía,2023-10-04,3,21.0,1640000.0,Particular,3.0,0
-5066,42.0,Medellín,Tomografía,2024-12-25,5,36.0,1520000.0,Remitido,2.0,0
-5425,24.0,Cali,Desconocido,2023-12-01,8,15.0,840000.0,Medicina prepagada,3.0,0
-5355,49.0,Cali,Resonancia,2024-12-19,10,57.0,2120000.0,EPS,4.0,0
-5220,19.0,Bogotá,Radiografía,2023-07-29,4,14.0,1130000.0,Particular,5.0,0
-5329,53.0,Bogotá,Tomografía,2023-06-28,7,36.0,1760000.0,EPS,3.0,0
-5070,31.0,Cali,Ecografía,2024-10-08,4,23.0,1430000.0,Remitido,3.0,0
-5094,63.0,Bogotá,Ecografía,2024-01-02,7,20.0,1470000.0,Medicina prepagada,3.0,0
-5069,23.0,Bogotá,Radiografía,2025-04-06,9,16.0,1000000.0,Particular,5.0,0
-5022,41.0,Medellín,Laboratorio,2024-09-04,7,9.0,910000.0,Remitido,1.0,1
-5078,39.0,Bucaramanga,Resonancia,2024-02-08,11,57.0,2740000.0,Remitido,5.0,0
-5397,49.0,Bogotá,Laboratorio,2023-08-12,9,10.0,860000.0,Remitido,3.0,0
-5383,47.0,Medellín,Ecografía,2023-07-27,12,27.0,1490000.0,EPS,1.0,1
-5237,60.0,Medellín,Radiografía,2024-07-06,3,16.0,1310000.0,Particular,1.0,1
-5372,16.0,Bucaramanga,Ecografía,2023-09-04,10,30.0,1350000.0,Particular,4.0,1
-5315,41.0,Bogotá,Ecografía,2024-12-03,8,32.0,1910000.0,Medicina prepagada,3.0,0
-5126,51.0,Medellín,Resonancia,2025-02-18,3,40.0,1800000.0,Remitido,3.0,0
-5229,28.0,Bucaramanga,Radiografía,2023-11-16,5,16.0,940000.0,Medicina prepagada,2.0,0
-5367,12.0,Bogotá,Radiografía,2023-05-08,-1,20.0,1020000.0,Remitido,3.0,0
-5043,24.0,Bogotá,Ecografía,2023-10-06,5,34.0,1090000.0,Medicina prepagada,2.0,0
-5005,37.0,Medellín,Ecografía,2023-04-05,4,13.0,1320000.0,EPS,5.0,0
-5407,29.0,Bogotá,Laboratorio,2023-05-25,5,12.0,1010000.0,EPS,2.0,0
-5065,35.0,Bogotá,Ecografía,2025-04-08,5,57.0,840000.0,EPS,5.0,0
-5432,36.0,Medellín,Ecografía,2023-10-17,3,27.0,1770000.0,Medicina prepagada,1.0,0
-5110,41.0,Medellín,Radiografía,2024-01-19,7,14.0,1200000.0,EPS,1.0,0
-5256,29.0,Bogotá,Radiografía,2024-07-04,2,12.0,1250000.0,Particular,4.0,0
-5366,52.0,Medellín,Ecografía,2023-02-08,6,18.0,1750000.0,Remitido,1.0,0
-5206,70.0,Medellín,Ecografía,2023-04-01,2,27.0,1160000.0,Medicina prepagada,4.0,0
-5431,44.0,Medellín,Ecografía,2023-09-18,5,26.5,1650000.0,Remitido,3.0,0
-5148,42.0,Medellín,Radiografía,2024-05-20,8,19.0,1160000.0,Medicina prepagada,4.0,0
-5007,46.0,Cali,Radiografía,2024-12-21,4,16.0,1560000.0,EPS,3.0,0
-5291,14.0,Cali,Radiografía,2024-10-07,13,15.0,1000000.0,EPS,3.0,0
-5474,32.0,Bogotá,Tomografía,2025-11-23,2,30.0,1550000.0,Desconocido,4.0,0
-5370,57.0,Medellín,Radiografía,2023-06-12,5,4.0,540000.0,Particular,2.0,1
-5340,71.0,Cali,Laboratorio,2025-05-13,6,7.0,970000.0,EPS,1.0,0
-5398,62.0,Medellín,Laboratorio,2023-02-18,5,12.0,660000.0,EPS,5.0,0
-5363,55.0,Bogotá,Ecografía,2024-08-14,12,27.0,1200000.0,EPS,1.0,1
-5260,44.0,Bogotá,Ecografía,2024-12-27,9,24.0,1370000.0,Remitido,5.0,0
-5283,43.0,Bucaramanga,Radiografía,2025-12-07,9,19.0,1170000.0,Particular,1.0,0
-5123,43.0,Bogotá,Radiografía,2024-03-20,5,18.0,980000.0,Particular,5.0,0
-5079,41.0,Cali,Desconocido,2024-11-24,7,29.0,1740000.0,Particular,4.0,0
-5519,32.0,Bogotá,Laboratorio,2023-07-04,7,11.0,720000.0,Remitido,1.0,0
-5321,32.0,Bogotá,Laboratorio,2023-04-06,3,15.0,830000.0,EPS,3.0,0
-5491,59.0,Bucaramanga,Laboratorio,2024-09-24,8,7.0,2500000.0,Remitido,4.0,0
-5152,39.0,Bogotá,Laboratorio,2025-08-04,5,8.0,580000.0,Medicina prepagada,5.0,0
-5300,46.0,Bogotá,Ecografía,2024-07-25,8,37.0,2010000.0,EPS,5.0,0
-5379,25.0,Medellín,Radiografía,2023-03-12,5,15.0,990000.0,EPS,4.0,0
-5164,20.0,Medellín,Radiografía,2023-11-06,6,10.0,1150000.0,EPS,2.0,0
-5443,60.0,Bogotá,Tomografía,2025-10-09,5,37.0,2250000.0,EPS,5.0,1
-5326,48.0,Medellín,Laboratorio,2024-11-08,5,7.0,1200000.0,EPS,4.0,1
-5266,54.0,Cali,Ecografía,2023-07-11,8,13.0,90000.0,EPS,3.0,0
-5493,21.0,Medellín,Laboratorio,2023-11-30,4,5.0,410000.0,Particular,4.0,0
-5447,52.0,Medellín,Laboratorio,2024-07-22,3,12.0,1130000.0,EPS,5.0,0
-5302,54.0,Bucaramanga,Ecografía,2023-04-01,7,11.0,980000.0,Particular,5.0,0
-5279,49.0,Bucaramanga,Radiografía,2023-06-22,4,16.0,710000.0,Particular,5.0,0
-5144,32.0,Bogotá,Radiografía,2024-09-14,8,10.0,490000.0,Particular,1.0,1
-5389,54.0,Medellín,Tomografía,2024-03-04,6,25.0,1510000.0,Remitido,2.0,0
-5393,23.0,Bogotá,Ecografía,2024-04-10,5,29.0,1880000.0,EPS,4.0,0
-5200,71.0,Bucaramanga,Ecografía,2023-07-10,7,25.0,1680000.0,Desconocido,4.0,0
-5042,46.0,Bogotá,Radiografía,2024-08-22,6,20.0,920000.0,Medicina prepagada,3.0,0
-5446,32.0,Medellín,Radiografía,2025-02-26,5,21.0,1560000.0,Particular,3.0,0
-5522,32.0,Bucaramanga,Tomografía,2023-09-20,2,40.0,2300000.0,Remitido,2.0,0
-5439,19.0,Bucaramanga,Ecografía,2025-09-07,6,16.0,1430000.0,EPS,1.0,0
-5365,16.0,Bucaramanga,Laboratorio,2024-05-30,8,11.0,960000.0,Remitido,3.0,0
-5232,32.0,Bogotá,Tomografía,2024-07-02,-1,50.0,1930000.0,EPS,5.0,0
-5246,65.0,Medellín,Ecografía,2024-12-06,1,29.0,1570000.0,Remitido,2.0,0
-5314,41.0,Bogotá,Tomografía,2024-08-08,9,33.0,1810000.0,EPS,2.0,0
-5499,63.0,Medellín,Tomografía,2025-03-23,4,26.0,1790000.0,Particular,5.0,0
-5333,27.0,Medellín,Ecografía,2024-01-14,9,29.0,1470000.0,Medicina prepagada,5.0,0
-5438,60.0,Cali,Laboratorio,2024-05-16,4,7.0,980000.0,Remitido,5.0,0
-5413,68.0,Cali,Laboratorio,2024-04-15,5,10.0,480000.0,EPS,3.0,0
-5264,49.0,Bogotá,Radiografía,2023-09-06,7,15.0,720000.0,EPS,3.0,0
-5030,47.0,Cali,Ecografía,2023-12-31,5,26.5,1130000.0,Medicina prepagada,3.0,0
-5239,45.0,Bucaramanga,Resonancia,2023-03-20,6,40.0,1690000.0,EPS,4.0,0
-5251,1.0,Cali,Laboratorio,2023-06-26,6,7.0,370000.0,Medicina prepagada,3.0,0
-5163,69.0,Bogotá,Radiografía,2025-11-25,3,13.0,1470000.0,EPS,4.0,0
-5150,45.0,Cali,Ecografía,2023-08-29,10,30.0,1430000.0,Medicina prepagada,2.0,0
-5500,27.0,Cali,Ecografía,2025-08-31,5,27.0,1370000.0,Desconocido,4.0,0
-5354,42.0,Bogotá,Laboratorio,2023-02-05,7,9.0,850000.0,Medicina prepagada,3.0,0
-5495,69.0,Cali,Tomografía,2025-10-31,10,42.0,2110000.0,Medicina prepagada,5.0,0
-5095,45.0,Cali,Resonancia,2023-05-12,5,57.0,2783750.0,EPS,5.0,0
-5009,37.0,Bucaramanga,Ecografía,2023-02-03,7,26.0,1370000.0,Medicina prepagada,5.0,0
-5222,28.0,Medellín,Resonancia,2024-03-22,4,43.0,2010000.0,Medicina prepagada,3.0,0
-5086,26.0,Bogotá,Radiografía,2025-04-10,3,15.0,860000.0,EPS,4.0,0
-5188,57.0,Medellín,Laboratorio,2025-03-20,5,11.0,450000.0,Particular,2.0,0
-5090,56.0,Bogotá,Resonancia,2024-10-26,6,57.0,2783750.0,EPS,3.0,0
-5420,34.0,Bogotá,Radiografía,2025-06-06,8,19.0,1380000.0,Particular,4.0,0
-5035,63.0,Bogotá,Radiografía,2023-11-28,4,19.0,970000.0,EPS,5.0,0
-5218,46.0,Bogotá,Radiografía,2025-07-31,10,14.0,920000.0,Particular,3.0,0
-5073,37.0,Bogotá,Radiografía,2023-11-22,8,14.0,980000.0,EPS,3.0,0
-5306,72.0,Bogotá,Ecografía,2025-10-21,5,12.0,1110000.0,Particular,3.0,0
-5221,42.0,Bucaramanga,Tomografía,2025-11-06,7,36.0,1290000.0,Medicina prepagada,1.0,0
-5403,39.0,Medellín,Ecografía,2023-03-24,5,27.0,1400000.0,Medicina prepagada,2.0,0
-5516,67.0,Medellín,Ecografía,2023-12-25,5,20.0,1050000.0,EPS,5.0,0
-5396,42.0,Medellín,Radiografía,2024-04-05,4,14.0,940000.0,EPS,1.0,0
-5510,44.0,Bogotá,Resonancia,2024-06-22,10,35.0,1440000.0,Remitido,3.0,0
-5111,57.0,Bogotá,Laboratorio,2024-09-30,5,10.0,680000.0,Remitido,2.0,0
-5368,21.0,Medellín,Laboratorio,2023-04-30,6,9.0,760000.0,EPS,4.0,0
-5013,47.0,Bogotá,Resonancia,2023-02-24,7,57.0,2650000.0,EPS,4.0,0
-5344,42.0,Bogotá,Radiografía,2023-05-31,8,15.0,670000.0,Particular,5.0,0
-5199,37.0,Bucaramanga,Ecografía,2024-01-29,7,20.0,1450000.0,EPS,3.0,0
-5214,43.0,Bogotá,Radiografía,2023-07-23,3,5.0,200000.0,Medicina prepagada,5.0,0
-5558,49.0,Bogotá,Resonancia,2025-01-14,11,47.0,2235000.0,EPS,5.0,0
-5235,79.0,Bucaramanga,Tomografía,2023-11-20,4,37.0,1970000.0,Remitido,4.0,0
-5459,44.0,Medellín,Laboratorio,2023-08-11,9,12.0,910000.0,EPS,1.0,0
-5217,41.0,Bogotá,Radiografía,2024-12-02,2,20.0,1200000.0,EPS,2.0,0
-5097,23.0,Bogotá,Resonancia,2023-12-13,8,40.0,1700000.0,Desconocido,5.0,0
-5535,22.0,Bogotá,Radiografía,2024-05-02,7,17.0,1120000.0,Particular,1.0,0
-5298,41.0,Bogotá,Tomografía,2024-06-20,7,40.0,1990000.0,EPS,4.0,0
-5064,25.0,Medellín,Tomografía,2025-09-24,3,26.0,1240000.0,Medicina prepagada,4.0,0
-5223,17.0,Bogotá,Resonancia,2023-11-26,5,49.0,2235000.0,Medicina prepagada,2.0,0
-5014,29.0,Cali,Laboratorio,2025-04-22,6,5.0,960000.0,Particular,3.0,0
-5328,28.0,Bogotá,Radiografía,2025-08-29,9,13.0,1420000.0,Remitido,5.0,0
-5018,37.0,Medellín,Ecografía,2024-05-18,4,31.0,1800000.0,Remitido,5.0,0
-5482,44.0,Medellín,Laboratorio,2025-07-03,5,10.0,670000.0,Remitido,1.0,0
-5247,45.0,Bogotá,Ecografía,2024-02-14,4,30.0,1810000.0,Medicina prepagada,5.0,0
-5550,25.0,Bogotá,Ecografía,2023-06-18,5,21.0,1200000.0,EPS,5.0,0
-5490,58.0,Desconocido,Resonancia,2025-02-11,2,47.0,2120000.0,Remitido,4.0,0
-5208,16.0,Bogotá,Resonancia,2024-01-25,7,40.0,2430000.0,Medicina prepagada,1.0,0
-5091,45.0,Bogotá,Radiografía,2023-03-04,4,19.0,1240000.0,Particular,2.0,0
-5308,46.0,Bucaramanga,Ecografía,2024-08-28,11,35.0,1620000.0,Particular,3.0,0
-5342,54.0,Medellín,Laboratorio,2025-08-15,8,8.0,750000.0,Particular,1.0,0
-5381,42.0,Cali,Laboratorio,2023-02-07,10,11.0,1010000.0,Particular,5.0,0
-5418,42.0,Bogotá,Tomografía,2023-02-15,6,39.0,2350000.0,Particular,1.0,0
-5345,35.0,Cali,Ecografía,2024-10-10,9,20.0,1550000.0,EPS,5.0,0
-5435,28.0,Bogotá,Laboratorio,2024-08-18,5,15.0,1480000.0,Remitido,3.0,0
-5456,46.0,Bogotá,Laboratorio,2024-04-22,7,9.0,820000.0,Remitido,3.0,0
-5040,43.0,Medellín,Radiografía,2024-11-28,7,19.0,1380000.0,Remitido,2.0,0
-5087,45.0,Bogotá,Ecografía,2024-02-28,75,30.0,1730000.0,EPS,1.0,0
-5182,36.0,Bogotá,Radiografía,2024-07-24,6,16.0,760000.0,Medicina prepagada,5.0,0
-5452,55.0,Medellín,Radiografía,2023-07-13,8,18.0,1110000.0,Particular,2.0,0
-5547,40.0,Bucaramanga,Laboratorio,2024-12-11,8,5.0,640000.0,Remitido,5.0,0
-5146,23.0,Medellín,Laboratorio,2024-04-07,8,6.0,760000.0,Remitido,1.0,0
-5159,73.0,Bogotá,Ecografía,2025-11-19,5,26.0,1310000.0,Remitido,4.0,0
-5173,36.0,Cali,Ecografía,2025-04-09,1,28.0,1860000.0,EPS,5.0,0
-5524,27.0,Medellín,Laboratorio,2025-03-12,8,7.0,460000.0,EPS,3.0,0
-5486,27.0,Bogotá,Radiografía,2024-01-10,9,18.0,1440000.0,EPS,3.0,0
-5409,53.0,Bogotá,Laboratorio,2025-10-01,7,10.0,125000.0,Remitido,1.0,0
-5461,56.0,Medellín,Laboratorio,2024-09-18,5,6.0,720000.0,EPS,4.0,0
-5201,24.0,Bogotá,Ecografía,2024-02-20,5,29.0,1230000.0,Medicina prepagada,3.0,0
-5427,51.0,Bucaramanga,Ecografía,2024-01-03,8,20.0,1870000.0,Remitido,5.0,0
-5382,25.0,Bogotá,Radiografía,2025-09-26,5,15.0,1060000.0,Remitido,1.0,0
-5293,61.0,Bogotá,Radiografía,2023-09-26,3,14.0,640000.0,EPS,1.0,0
-5349,61.0,Bogotá,Ecografía,2025-04-01,5,32.0,1430000.0,Medicina prepagada,3.0,0
-5072,11.0,Cali,Radiografía,2024-01-04,6,15.0,1080000.0,Remitido,1.0,0
-5515,44.0,Bogotá,Ecografía,2025-01-22,4,32.0,1920000.0,Particular,3.0,0
-5537,22.0,Cali,Ecografía,2023-10-29,10,21.0,1150000.0,Particular,1.0,1
-5478,14.0,Medellín,Ecografía,2024-08-03,5,19.0,1430000.0,EPS,5.0,1
-5518,43.0,Bogotá,Radiografía,2023-04-16,6,16.0,1000000.0,Medicina prepagada,1.0,0
-5107,48.0,Cali,Ecografía,2025-03-16,11,27.0,1630000.0,EPS,2.0,0
-5352,36.0,Bogotá,Ecografía,2024-12-01,10,26.0,1260000.0,EPS,1.0,0
-5511,44.0,Bucaramanga,Ecografía,2023-12-11,8,17.0,1270000.0,Particular,4.0,0
-5134,19.0,Bogotá,Ecografía,2023-10-06,5,40.0,1910000.0,EPS,3.0,0
-5061,48.0,Desconocido,Radiografía,2024-11-16,7,13.0,760000.0,Particular,1.0,1
-5523,44.0,Bogotá,Tomografía,2024-05-06,9,31.0,1700000.0,Remitido,2.0,0
-5027,2.0,Medellín,Ecografía,2025-07-05,6,24.0,960000.0,Remitido,5.0,0
-5394,20.0,Medellín,Radiografía,2024-12-10,4,17.0,1340000.0,EPS,3.0,0
-5101,40.0,Bogotá,Laboratorio,2023-03-08,3,10.0,360000.0,Desconocido,3.0,0
-5020,23.0,Medellín,Radiografía,2025-02-20,3,15.0,75000.0,Medicina prepagada,3.0,0
-5507,30.0,Bogotá,Radiografía,2023-12-07,9,22.0,1440000.0,Particular,4.0,0
-5463,14.0,Bogotá,Laboratorio,2025-05-19,3,7.0,1030000.0,Medicina prepagada,2.0,0
-5265,27.0,Medellín,Ecografía,2023-09-16,2,27.0,1500000.0,Medicina prepagada,1.0,0
-5277,51.0,Cali,Ecografía,2024-02-16,7,32.0,2060000.0,Particular,1.0,0
-5364,46.0,Bogotá,Laboratorio,2025-11-12,7,16.0,1380000.0,Remitido,2.0,0
-5310,26.0,Medellín,Radiografía,2025-04-24,6,19.0,1020000.0,Remitido,3.0,0
-5284,42.0,Bogotá,Radiografía,2025-04-26,6,16.0,1120000.0,Desconocido,4.0,0
-5502,19.0,Medellín,Tomografía,2023-05-29,7,36.0,183000.0,EPS,4.0,0
-5093,39.0,Medellín,Desconocido,2025-07-25,5,30.0,1960000.0,Particular,4.0,0
-5253,68.0,Medellín,Radiografía,2025-06-16,5,15.0,1070000.0,Remitido,3.0,0
-5033,28.0,Desconocido,Radiografía,2024-06-18,5,11.0,1120000.0,Particular,2.0,0
-5428,27.0,Bogotá,Laboratorio,2025-05-15,8,12.0,880000.0,Medicina prepagada,5.0,0
-5442,28.0,Bogotá,Ecografía,2023-06-06,4,28.0,1510000.0,EPS,5.0,0
-5136,43.0,Medellín,Laboratorio,2024-04-21,5,11.0,640000.0,Medicina prepagada,5.0,1
-5477,24.0,Cali,Resonancia,2024-03-14,6,47.0,2400000.0,Particular,2.0,0
-5023,23.0,Bogotá,Ecografía,2025-05-27,5,31.0,2070000.0,Particular,4.0,0
-5466,19.0,Bogotá,Ecografía,2024-06-10,12,23.0,1050000.0,EPS,5.0,0
-5063,47.0,Cali,Ecografía,2025-06-04,5,27.0,1370000.0,EPS,3.0,0
-5149,61.0,Bogotá,Laboratorio,2025-05-23,4,17.0,900000.0,EPS,2.0,0
-5484,46.0,Bogotá,Ecografía,2025-05-31,2,32.0,1920000.0,Desconocido,3.0,0
-5216,43.0,Bogotá,Radiografía,2023-08-26,5,15.0,97000.0,Particular,3.0,0
-5530,29.0,Medellín,Resonancia,2024-12-10,6,43.0,1980000.0,Remitido,4.0,0
-5448,41.0,Bogotá,Laboratorio,2025-06-27,7,11.0,2500000.0,Particular,2.0,0
-5540,10.0,Medellín,Radiografía,2024-08-04,4,13.0,710000.0,Medicina prepagada,1.0,0
-5258,48.0,Bogotá,Ecografía,2023-12-29,8,20.0,1430000.0,Medicina prepagada,4.0,0
-5053,46.0,Desconocido,Laboratorio,2025-05-17,6,9.0,630000.0,EPS,2.0,0
-5243,44.0,Bogotá,Tomografía,2025-11-05,4,36.0,1970000.0,Remitido,3.0,0
-5174,43.0,Bogotá,Radiografía,2025-09-16,9,14.0,1060000.0,Remitido,1.0,1
-5036,31.0,Medellín,Laboratorio,2025-07-15,7,15.0,1010000.0,Medicina prepagada,2.0,0
-5450,55.0,Bogotá,Laboratorio,2023-12-09,8,13.0,1380000.0,EPS,5.0,0
-5179,50.0,Medellín,Ecografía,2024-11-02,9,22.0,1170000.0,Particular,4.0,0
-5168,57.0,Bogotá,Laboratorio,2025-02-14,6,57.0,71000.0,Remitido,5.0,0
-5227,28.0,Cali,Radiografía,2023-06-08,4,22.0,1220000.0,Remitido,2.0,0
-5121,43.0,Bogotá,Resonancia,2024-12-14,4,48.0,2460000.0,Remitido,3.0,0
-5401,48.0,Bucaramanga,Ecografía,2024-04-11,6,31.0,1510000.0,Particular,3.0,0
-5276,58.0,Desconocido,Ecografía,2025-04-12,6,26.5,990000.0,Particular,5.0,0
-5045,68.0,Bogotá,Laboratorio,2025-01-20,4,12.0,650000.0,Remitido,3.0,0
-5301,71.0,Bogotá,Laboratorio,2024-02-26,8,7.0,1010000.0,Remitido,4.0,0
-5325,35.0,Medellín,Radiografía,2024-01-17,3,9.0,840000.0,Particular,1.0,0
-5077,39.0,Bogotá,Laboratorio,2024-06-08,8,9.0,1140000.0,EPS,5.0,0
-5209,59.0,Cali,Resonancia,2024-05-08,8,57.0,2680000.0,EPS,2.0,0
-5369,60.0,Medellín,Tomografía,2024-08-26,8,32.0,1890000.0,EPS,2.0,0
-5395,59.0,Bogotá,Ecografía,2025-09-20,6,17.0,940000.0,EPS,1.0,1
-5213,17.0,Medellín,Resonancia,2024-09-01,4,55.0,2080000.0,Particular,2.0,0
-5268,64.0,Medellín,Tomografía,2024-07-27,4,30.0,1630000.0,Particular,1.0,0
-5312,60.0,Bogotá,Radiografía,2023-05-27,8,24.0,1120000.0,EPS,5.0,0
-5445,70.0,Medellín,Tomografía,2023-08-18,5,29.0,1640000.0,Particular,1.0,1
-5504,69.0,Bucaramanga,Laboratorio,2025-12-27,5,8.0,840000.0,Particular,3.0,0
-5496,1.0,Bogotá,Resonancia,2025-04-28,4,51.0,2370000.0,Particular,3.0,1
-5034,31.0,Bogotá,Laboratorio,2023-04-18,7,8.0,100000.0,Particular,1.0,0
-5010,34.0,Bucaramanga,Ecografía,2024-03-09,4,30.0,1430000.0,Particular,4.0,0
-5161,27.0,Bucaramanga,Resonancia,2023-01-16,3,57.0,2783750.0,EPS,3.0,0
-5286,51.0,Bucaramanga,Tomografía,2023-08-14,7,36.0,1670000.0,Particular,5.0,0
-5296,47.0,Medellín,Radiografía,2023-05-16,7,15.0,1620000.0,Medicina prepagada,3.0,0
-5278,1.0,Bogotá,Laboratorio,2025-08-06,5,11.0,830000.0,EPS,2.0,0
-5532,36.0,Cali,Ecografía,2025-12-15,6,23.0,113000.0,EPS,3.0,0
-5485,77.0,Medellín,Resonancia,2024-11-30,7,46.0,2080000.0,Particular,1.0,0
-5497,54.0,Medellín,Laboratorio,2025-03-31,7,9.0,770000.0,Particular,1.0,0
-5183,56.0,Bogotá,Laboratorio,2025-02-08,5,9.0,65000.0,Medicina prepagada,1.0,0
-5555,54.0,Cali,Ecografía,2024-12-06,7,26.0,1440000.0,EPS,5.0,0
-5037,44.0,Bucaramanga,Laboratorio,2023-01-01,5,11.0,1130000.0,Particular,4.0,0
-5157,22.0,Bogotá,Ecografía,2024-12-17,6,29.0,1770000.0,EPS,4.0,1
-5003,40.0,Medellín,Tomografía,2023-08-16,4,29.0,1840000.0,EPS,3.0,1
-5509,38.0,Bucaramanga,Ecografía,2025-09-02,8,29.0,1940000.0,EPS,1.0,1
-5498,27.0,Cali,Tomografía,2023-01-08,7,43.0,1980000.0,Particular,4.0,0
-5290,38.0,Medellín,Resonancia,2025-05-06,12,57.0,2783750.0,EPS,5.0,1
-5415,40.0,Bogotá,Resonancia,2025-10-25,6,55.0,2330000.0,Remitido,3.0,0
-5422,17.0,Bucaramanga,Resonancia,2023-10-12,4,31.0,1680000.0,Particular,3.0,0
-5142,36.0,Cali,Radiografía,2025-12-11,8,14.0,890000.0,Remitido,1.0,0
-5224,54.0,Medellín,Radiografía,2024-06-01,7,15.0,520000.0,EPS,1.0,0
-5184,40.0,Bogotá,Laboratorio,2024-06-08,12,6.0,830000.0,Particular,2.0,0
-5548,36.0,Medellín,Ecografía,2024-08-01,6,22.0,1300000.0,EPS,4.0,0
-5512,43.0,Medellín,Ecografía,2023-11-02,11,26.0,1430000.0,EPS,1.0,0
-5118,43.0,Bucaramanga,Radiografía,2025-12-17,10,19.0,1270000.0,EPS,2.0,0
-5002,43.0,Bucaramanga,Ecografía,2023-04-22,3,24.0,1190000.0,Particular,1.0,0
-5114,44.0,Bogotá,Radiografía,2023-09-24,3,13.0,830000.0,Particular,2.0,0
-5166,43.0,Cali,Ecografía,2024-03-18,9,33.0,1650000.0,Medicina prepagada,3.0,0
-5185,42.0,Bogotá,Tomografía,2025-06-01,9,43.0,2270000.0,Remitido,2.0,0
-5373,39.0,Bogotá,Laboratorio,2025-04-18,6,12.0,930000.0,Particular,4.0,0
-5275,37.0,Medellín,Resonancia,2025-07-21,8,57.0,2660000.0,Medicina prepagada,4.0,0
-5001,45.0,Bucaramanga,Desconocido,2024-01-21,4,9.0,1260000.0,EPS,5.0,0
-5541,47.0,Bogotá,Resonancia,2023-08-31,13,47.0,2180000.0,Remitido,4.0,0
-5501,40.0,Medellín,Tomografía,2024-06-14,2,31.0,1450000.0,Remitido,3.0,0
-5384,25.0,Bogotá,Laboratorio,2023-08-04,5,10.0,940000.0,EPS,5.0,1
-5406,24.0,Cali,Tomografía,2024-10-22,3,36.0,1640000.0,EPS,3.0,0
-5021,14.0,Bucaramanga,Resonancia,2023-04-24,9,40.0,2240000.0,Desconocido,5.0,0
-5177,68.0,Cali,Desconocido,2024-04-19,6,21.0,890000.0,EPS,3.0,0
-5336,26.0,Bucaramanga,Laboratorio,2025-06-12,6,8.0,470000.0,EPS,5.0,0
-5380,44.0,Bogotá,Ecografía,2023-07-21,4,32.0,1600000.0,EPS,4.0,0
-5546,43.0,Medellín,Laboratorio,2023-03-16,10,7.0,270000.0,EPS,2.0,1
-5172,53.0,Bogotá,Radiografía,2025-01-16,3,14.0,810000.0,Medicina prepagada,2.0,1
-5520,43.0,Medellín,Radiografía,2025-10-29,4,8.0,500000.0,Medicina prepagada,3.0,0
-5508,13.0,Bucaramanga,Resonancia,2023-10-27,6,36.0,1820000.0,Medicina prepagada,2.0,0
-5153,35.0,Bogotá,Laboratorio,2024-06-11,5,3.0,810000.0,EPS,1.0,0
-5414,38.0,Medellín,Laboratorio,2024-07-18,6,9.0,770000.0,EPS,3.0,0
-5317,18.0,Medellín,Ecografía,2023-09-02,7,21.0,1770000.0,Remitido,1.0,1
-5259,46.0,Cali,Tomografía,2023-04-28,5,28.0,2090000.0,Remitido,1.0,1
-5475,52.0,Bogotá,Ecografía,2025-09-12,7,18.0,690000.0,EPS,5.0,0
-5338,30.0,Bogotá,Ecografía,2025-10-09,10,28.0,1690000.0,EPS,5.0,0
-5539,40.0,Bogotá,Ecografía,2023-02-01,4,18.0,89000.0,Desconocido,3.0,0
-5505,59.0,Bogotá,Resonancia,2024-06-28,7,57.0,1000.0,Remitido,3.0,0
-5399,16.0,Bogotá,Ecografía,2025-08-08,4,21.0,1370000.0,Particular,3.0,0
-5424,62.0,Bucaramanga,Radiografía,2025-03-04,7,17.0,1330000.0,EPS,2.0,0
-5481,49.0,Medellín,Tomografía,2023-10-13,8,39.0,1570000.0,EPS,2.0,0
-5423,38.0,Bucaramanga,Resonancia,2023-07-15,5,53.0,2630000.0,Particular,3.0,0
-5120,48.0,Bogotá,Tomografía,2024-05-26,1,36.0,1630000.0,EPS,1.0,0
-5257,64.0,Bogotá,Laboratorio,2023-01-26,6,9.0,200000.0,EPS,3.0,0
-5250,12.0,Bogotá,Ecografía,2024-09-22,6,37.0,2050000.0,EPS,2.0,1
+id_paciente;edad;sede;tipo_examen;fecha_cita;dias_espera_cita;duracion_minutos;costo_examen;canal_remision;calificacion_satisfaccion;reingreso_30dias
+5388;37;Bogotá;Radiografía;2023-10-23T00:00:00Z;14;9;98000;EPS;3;0
+5455;43;Cali;Resonancia;2024-04-28T00:00:00Z;6;77;311000;Particular;5;0
+5533;49;Bogotá;Laboratorio;2025-12-31T00:00:00Z;6;9;51000;Particular;2;0
+5281;46;Desconocido;Ecografía;2024-03-24T00:00:00Z;2;28;144000;Remitido;4;0
+5324;40;Cali;Ecografía;2025-10-07T00:00:00Z;10;27;144000;Remitido;3;0
+5359;49;Bogotá;Ecografía;2025-08-27T00:00:00Z;5;35;197000;Remitido;3;0
+5049;34;Bogotá;Radiografía;2025-10-23T00:00:00Z;8;19;100000;Medicina prepagada;5;0
+5521;35;Cali;Ecografía;2023-01-14T00:00:00Z;5;35;208000;Medicina prepagada;5;0
+5145;34;Bogotá;Laboratorio;2024-07-08T00:00:00Z;5;9;108000;EPS;5;0
+5513;26;Bogotá;Laboratorio;2023-05-12T00:00:00Z;6;12;124000;EPS;1;0
+5062;37;Bogotá;Laboratorio;2023-02-22T00:00:00Z;90;10;105000;EPS;5;0
+5015;45;Bucaramanga;Radiografía;2023-01-30T00:00:00Z;3;21;107000;EPS;2;0
+5273;74;Bogotá;Radiografía;2024-02-02T00:00:00Z;4;15;85000;EPS;4;1
+5113;27;Bogotá;Laboratorio;2024-03-16T00:00:00Z;12;9;83000;Medicina prepagada;1;1
+5527;49;Bucaramanga;Resonancia;2023-11-10T00:00:00Z;4;57;298000;EPS;1;1
+5233;51;Cali;Ecografía;2024-12-29T00:00:00Z;7;32;173000;Medicina prepagada;5;0
+5316;47;Bogotá;Radiografía;2024-12-31T00:00:00Z;6;17;110000;EPS;1;0
+5358;44;Bucaramanga;Laboratorio;2023-09-28T00:00:00Z;4;9;97000;EPS;2;0
+5169;45;Bogotá;Laboratorio;2024-03-10T00:00:00Z;7;10;120000;Remitido;5;0
+5417;88;Bogotá;Radiografía;2025-01-10T00:00:00Z;11;15;101000;Remitido;4;0
+5068;64;Cali;Laboratorio;2024-02-22T00:00:00Z;2;7;66000;Particular;3;0
+5059;43;Medellín;Radiografía;2023-10-20T00:00:00Z;4;17;68000;EPS;3;0
+5112;54;Cali;Tomografía;2023-12-17T00:00:00Z;9;34;192000;EPS;4;0
+5551;49;Cali;Radiografía;2023-08-24T00:00:00Z;8;14;90000;Remitido;3;0
+5038;60;Bogotá;Tomografía;2023-10-15T00:00:00Z;9;29;139000;Particular;2;0
+5160;34;Medellín;Ecografía;2025-03-25T00:00:00Z;4;29;126000;Particular;2;0
+5104;83;Cali;Ecografía;2023-05-23T00:00:00Z;7;7.5;61250;Medicina prepagada;5;0
+5219;30;Bucaramanga;Ecografía;2024-03-06T00:00:00Z;5;20;128000;Particular;4;0
+5204;60;Bogotá;Radiografía;2025-02-24T00:00:00Z;9;11;111000;EPS;2;0
+5346;22;Bucaramanga;Radiografía;2025-04-20T00:00:00Z;5;18;131000;Medicina prepagada;4;0
+5011;53;Bogotá;Laboratorio;2025-02-02T00:00:00Z;10;10;98000;Medicina prepagada;3;0
+5102;30;Bucaramanga;Tomografía;2025-07-27T00:00:00Z;4;35;195000;EPS;4;0
+5552;47;Medellín;Ecografía;2024-12-08T00:00:00Z;6;17;135000;EPS;1;0
+5488;28;Cali;Ecografía;2025-01-20T00:00:00Z;11;26.5;227250;Particular;1;0
+5361;54;Bucaramanga;Laboratorio;2025-05-29T00:00:00Z;4;11;88000;EPS;2;0
+5143;44;Bogotá;Tomografía;2024-12-02T00:00:00Z;5;25;144000;EPS;4;0
+5473;55;Medellín;Ecografía;2025-01-26T00:00:00Z;2;18;144000;EPS;3;1
+5046;19;Bogotá;Tomografía;2024-09-05T00:00:00Z;3;42;201000;EPS;1;1
+5028;36;Medellín;Radiografía;2024-10-20T00:00:00Z;4;15;84000;Remitido;1;0
+5262;59;Medellín;Laboratorio;2024-05-22T00:00:00Z;3;10;85000;Particular;4;0
+5131;31;Medellín;Radiografía;2023-05-18T00:00:00Z;8;19;100000;EPS;5;0
+5376;83;Cali;Radiografía;2025-04-30T00:00:00Z;4;15;127000;Remitido;5;0
+5054;55;Bogotá;Ecografía;2025-12-03T00:00:00Z;5;19;184000;Particular;4;0
+5460;16;Cali;Resonancia;2025-12-13T00:00:00Z;7;58;282000;Remitido;3;1
+5082;40;Bogotá;Ecografía;2024-04-12T00:00:00Z;7;26.5;227250;EPS;5;0
+5092;56;Bogotá;Radiografía;2023-05-10T00:00:00Z;6;13;95000;Remitido;2;0
+5074;43;Cali;Radiografía;2024-08-02T00:00:00Z;9;15;52000;Remitido;3;0
+5044;46;Cali;Ecografía;2025-06-08T00:00:00Z;2;25;104000;EPS;1;0
+5385;64;Medellín;Radiografía;2024-05-14T00:00:00Z;9;12;82000;EPS;3;1
+5429;36;Cali;Laboratorio;2023-07-31T00:00:00Z;6;8;69000;Desconocido;5;0
+5050;79;Bogotá;Tomografía;2023-08-04T00:00:00Z;3;32;170000;Particular;4;0
+5081;38;Cali;Ecografía;2024-11-14T00:00:00Z;10;14;144000;EPS;5;0
+5133;47;Medellín;Ecografía;2025-03-21T00:00:00Z;8;23;155000;Particular;3;0
+5029;44;Cali;Ecografía;2024-07-29T00:00:00Z;6;21;153000;Particular;5;0
+5492;29;Cali;Tomografía;2025-11-29T00:00:00Z;7;38;170000;EPS;1;1
+5171;32;Cali;Tomografía;2023-09-14T00:00:00Z;5;36;161000;Particular;4;0
+5158;31;Bogotá;Radiografía;2023-09-02T00:00:00Z;9;17;96000;Desconocido;1;0
+5244;46;Cali;Radiografía;2023-07-19T00:00:00Z;7;15;100000;EPS;1;0
+5402;52;Medellín;Ecografía;2025-05-09T00:00:00Z;8;32;216000;Particular;1;0
+5207;26;Bucaramanga;Ecografía;2025-06-14T00:00:00Z;2;23;103000;Medicina prepagada;5;0
+5487;19;Medellín;Laboratorio;2023-04-10T00:00:00Z;2;6;60000;EPS;3;1
+5375;56;Bogotá;Radiografía;2025-11-20T00:00:00Z;10;21;122000;Medicina prepagada;4;0
+5127;9;Medellín;Tomografía;2025-02-20T00:00:00Z;4;50;252000;EPS;2;0
+5467;27;Bucaramanga;Ecografía;2025-06-20T00:00:00Z;8;30;159000;Particular;4;1
+5479;77;Bogotá;Tomografía;2024-11-20T00:00:00Z;5;23;181000;EPS;4;0
+5458;30;Bogotá;Radiografía;2025-07-23T00:00:00Z;5;18;62000;EPS;1;1
+5392;39;Bogotá;Ecografía;2025-05-12T00:00:00Z;1;26;165000;Remitido;1;0
+5469;26;Bogotá;Radiografía;2024-07-06T00:00:00Z;5;18;143000;EPS;5;0
+5017;22;Medellín;Radiografía;2023-12-19T00:00:00Z;3;19;137000;EPS;3;0
+5470;51;Bogotá;Ecografía;2024-11-22T00:00:00Z;5;30;164000;Remitido;5;0
+5549;47;Cali;Ecografía;2024-01-23T00:00:00Z;9;19;115000;Particular;4;0
+5181;38;Medellín;Radiografía;2024-10-18T00:00:00Z;4;14;120000;Particular;4;0
+5130;58;Cali;Radiografía;2024-10-20T00:00:00Z;10;20;56000;EPS;3;0
+5103;48;Medellín;Ecografía;2023-10-02T00:00:00Z;5;22;144000;Medicina prepagada;3;0
+5128;59;Bogotá;Radiografía;2025-09-14T00:00:00Z;8;14;57000;EPS;5;0
+5339;63;Medellín;Laboratorio;2025-01-30T00:00:00Z;5;10;98000;EPS;1;0
+5135;66;Medellín;Ecografía;2025-07-20T00:00:00Z;9;27;157000;Remitido;3;1
+5195;54;Bogotá;Radiografía;2024-06-24T00:00:00Z;5;14;111000;Remitido;5;0
+5494;39;Bogotá;Radiografía;2023-02-26T00:00:00Z;5;12;100000;Medicina prepagada;4;0
+5240;20;Bogotá;Resonancia;2023-12-15T00:00:00Z;10;24;121000;Particular;1;0
+5434;40;Medellín;Ecografía;2025-02-04T00:00:00Z;8;29;163000;Medicina prepagada;5;0
+5457;61;Bucaramanga;Tomografía;2025-01-12T00:00:00Z;9;34;181000;EPS;4;0
+5080;71;Bogotá;Ecografía;2024-12-07T00:00:00Z;9;33;160000;Medicina prepagada;3;0
+5041;47;Cali;Radiografía;2025-03-29T00:00:00Z;7;12;130000;EPS;1;0
+5230;30;Bogotá;Ecografía;2024-06-30T00:00:00Z;7;32;217000;Medicina prepagada;4;0
+5433;31;Bogotá;Laboratorio;2025-08-23T00:00:00Z;6;12;92000;Medicina prepagada;3;0
+5311;44;Bogotá;Laboratorio;2025-12-02T00:00:00Z;5;9;85000;Medicina prepagada;5;0
+5096;55;Bucaramanga;Desconocido;2025-10-06T00:00:00Z;6;9;93000;Medicina prepagada;3;0
+5404;62;Cali;Laboratorio;2023-11-20T00:00:00Z;90;8;70000;EPS;5;0
+5122;35;Bogotá;Ecografía;2025-07-17T00:00:00Z;6;28;109000;Particular;1;1
+5211;45;Bogotá;Laboratorio;2025-01-08T00:00:00Z;12;9;88000;Particular;1;1
+5245;40;Medellín;Ecografía;2024-06-10T00:00:00Z;9;15;125000;EPS;5;0
+5297;49;Bogotá;Radiografía;2023-04-05T00:00:00Z;4;9;93000;EPS;5;0
+5154;45;Bogotá;Laboratorio;2025-03-02T00:00:00Z;4;10;62000;Particular;1;0
+5058;56;Bogotá;Ecografía;2025-12-21T00:00:00Z;8;37;175000;EPS;5;0
+5108;53;Cali;Radiografía;2023-03-20T00:00:00Z;7;19;161000;EPS;3;0
+5132;58;Cali;Radiografía;2024-10-16T00:00:00Z;2;17;100000;Particular;5;0
+5503;28;Bogotá;Laboratorio;2023-10-08T00:00:00Z;5;11;122000;Particular;5;0
+5318;41;Desconocido;Ecografía;2024-03-30T00:00:00Z;4;29;153000;Medicina prepagada;2;0
+5193;61;Bogotá;Ecografía;2025-10-11T00:00:00Z;1;18;113000;Remitido;4;0
+5390;43;Medellín;Tomografía;2023-08-27T00:00:00Z;7;50;258000;Remitido;4;0
+5410;13;Medellín;Radiografía;2023-07-17T00:00:00Z;12;14;113000;EPS;5;0
+5330;79;Medellín;Tomografía;2023-10-25T00:00:00Z;8;45;234000;Medicina prepagada;5;0
+5186;45;Bogotá;Tomografía;2024-03-03T00:00:00Z;15;26;142000;EPS;1;0
+5371;42;Bucaramanga;Tomografía;2025-07-29T00:00:00Z;9;44;178000;Particular;2;0
+5405;49;Bogotá;Ecografía;2023-12-23T00:00:00Z;4;28;145000;EPS;1;1
+5125;26;Bucaramanga;Ecografía;2024-05-28T00:00:00Z;6;21;61250;EPS;1;0
+5162;51;Bogotá;Laboratorio;2023-02-05T00:00:00Z;7;7;95000;Particular;3;0
+5170;46;Bucaramanga;Resonancia;2023-06-14T00:00:00Z;4;47;223500;Medicina prepagada;1;0
+5559;50;Bogotá;Tomografía;2024-02-04T00:00:00Z;11;26;144000;EPS;4;0
+5075;66;Medellín;Laboratorio;2025-01-28T00:00:00Z;3;10;51000;EPS;3;0
+5289;36;Medellín;Radiografía;2025-05-21T00:00:00Z;9;7;30000;Particular;3;0
+5299;42;Bogotá;Ecografía;2025-10-20T00:00:00Z;3;23;144000;EPS;2;0
+5411;68;Bucaramanga;Resonancia;2023-02-01T00:00:00Z;9;36;195000;Remitido;1;1
+5187;65;Bogotá;Radiografía;2023-08-20T00:00:00Z;0;18;114000;Remitido;4;0
+5444;36;Bogotá;Tomografía;2024-05-06T00:00:00Z;4;36;181000;Remitido;5;0
+5292;72;Bogotá;Laboratorio;2023-01-24T00:00:00Z;11;7;45000;Remitido;3;0
+5202;60;Cali;Tomografía;2025-06-25T00:00:00Z;4;36;204000;Medicina prepagada;4;0
+5468;32;Bogotá;Radiografía;2024-01-31T00:00:00Z;4;25.5;172000;Medicina prepagada;5;0
+5514;44;Medellín;Radiografía;2023-09-30T00:00:00Z;4;10;81000;EPS;5;0
+5138;40;Medellín;Radiografía;2025-12-23T00:00:00Z;8;10;55000;Remitido;3;0
+5255;25;Bogotá;Radiografía;2025-07-19T00:00:00Z;7;19;106000;EPS;3;0
+5472;33;Medellín;Resonancia;2023-09-08T00:00:00Z;7;42;188000;Medicina prepagada;4;1
+5194;43;Cali;Ecografía;2024-09-09T00:00:00Z;5;30;210000;Particular;5;0
+5117;49;Medellín;Tomografía;2024-08-16T00:00:00Z;6;35;183000;EPS;3;0
+5323;71;Bogotá;Ecografía;2025-02-20T00:00:00Z;9;21;61250;Remitido;3;0
+5426;63;Bogotá;Radiografía;2024-01-27T00:00:00Z;1;17;122000;Remitido;5;0
+5437;44;Bogotá;Ecografía;2023-03-22T00:00:00Z;11;33;148000;EPS;4;0
+5534;45;Bucaramanga;Radiografía;2025-09-22T00:00:00Z;2;20;130000;Remitido;3;0
+5156;40;Bucaramanga;Laboratorio;2025-06-22T00:00:00Z;3;12;90000;EPS;5;0
+5215;49;Bucaramanga;Resonancia;2023-02-28T00:00:00Z;2;52;203000;Remitido;5;0
+5351;30;Medellín;Radiografía;2023-06-30T00:00:00Z;6;14;90000;EPS;3;0
+5465;64;Bogotá;Ecografía;2025-10-27T00:00:00Z;7;28;121000;EPS;4;0
+5294;61;Bogotá;Resonancia;2023-08-06T00:00:00Z;6;39;247000;EPS;2;0
+5348;43;Cali;Radiografía;2023-08-22T00:00:00Z;7;13;84000;Medicina prepagada;1;1
+5430;37;Cali;Resonancia;2025-03-14T00:00:00Z;8;31;345500;EPS;5;0
+5327;45;Medellín;Radiografía;2024-09-07T00:00:00Z;7;13;60000;Remitido;5;0
+5391;38;Bogotá;Resonancia;2023-10-10T00:00:00Z;8;31;164000;Desconocido;1;0
+5210;28;Medellín;Laboratorio;2024-01-16T00:00:00Z;3;15.5;70000;Particular;5;0
+5357;40;Cali;Laboratorio;2024-06-20T00:00:00Z;6;14;80000;Medicina prepagada;3;0
+5271;45;Medellín;Tomografía;2025-12-19T00:00:00Z;6;43;210000;Particular;5;0
+5320;60;Bucaramanga;Laboratorio;2025-06-23T00:00:00Z;4;6;93000;EPS;4;0
+5252;36;Medellín;Ecografía;2023-09-12T00:00:00Z;5;31;155000;Particular;4;0
+5412;43;Bogotá;Laboratorio;2025-06-02T00:00:00Z;5;11;81000;Medicina prepagada;3;0
+5019;13;Medellín;Laboratorio;2024-04-17T00:00:00Z;6;6;95000;Medicina prepagada;1;0
+5322;55;Bogotá;Ecografía;2024-04-03T00:00:00Z;5;23;227250;Particular;5;0
+5536;46;Bogotá;Resonancia;2024-09-16T00:00:00Z;4;51;219000;Particular;1;0
+5088;37;Bogotá;Tomografía;2024-07-16T00:00:00Z;3;37;194000;EPS;5;0
+5242;58;Bogotá;Laboratorio;2025-02-22T00:00:00Z;13;5;82000;EPS;1;0
+5483;48;Cali;Radiografía;2024-05-10T00:00:00Z;9;19;146000;Remitido;5;0
+5350;29;Bogotá;Radiografía;2023-07-06T00:00:00Z;6;14;99000;EPS;5;0
+5052;25;Bogotá;Radiografía;2025-09-29T00:00:00Z;4;15;101000;Remitido;5;0
+5416;26;Bogotá;Laboratorio;2025-01-24T00:00:00Z;3;6;92000;EPS;2;0
+5419;72;Medellín;Radiografía;2024-05-12T00:00:00Z;6;16;124000;Remitido;4;1
+5489;22;Cali;Radiografía;2024-11-10T00:00:00Z;9;19;129000;Particular;3;0
+5031;19;Bogotá;Laboratorio;2023-05-06T00:00:00Z;6;15;84000;Desconocido;2;1
+5067;60;Medellín;Laboratorio;2024-04-30T00:00:00Z;7;9;78000;EPS;4;0
+5436;23;Bogotá;Laboratorio;2025-06-29T00:00:00Z;9;11;146000;EPS;1;1
+5449;32;Medellín;Radiografía;2025-11-13T00:00:00Z;10;16;114000;EPS;5;0
+5377;49;Medellín;Ecografía;2024-07-31T00:00:00Z;3;31;188000;Medicina prepagada;2;0
+5267;33;Bogotá;Radiografía;2025-12-01T00:00:00Z;6;12;105000;Remitido;3;0
+5529;33;Cali;Ecografía;2024-02-18T00:00:00Z;4;18;126000;EPS;2;0
+5360;44;Bogotá;Laboratorio;2024-09-20T00:00:00Z;5;10;78000;EPS;2;0
+5451;42;Bogotá;Tomografía;2025-10-11T00:00:00Z;3;39;206000;EPS;5;0
+5016;57;Bucaramanga;Ecografía;2024-04-20T00:00:00Z;10;39;167000;Remitido;3;0
+5189;52;Bogotá;Resonancia;2024-12-23T00:00:00Z;5;29;153000;Medicina prepagada;5;0
+5198;61;Bogotá;Ecografía;2025-06-18T00:00:00Z;5;27;143000;Medicina prepagada;1;0
+5347;46;Bogotá;Laboratorio;2023-11-18T00:00:00Z;8;12;93000;EPS;4;0
+5295;56;Bogotá;Laboratorio;2025-04-16T00:00:00Z;8;15;85000;Remitido;4;0
+5176;24;Bogotá;Radiografía;2023-04-14T00:00:00Z;5;16;135000;Remitido;4;0
+5309;39;Bucaramanga;Radiografía;2024-10-02T00:00:00Z;6;8;84000;Medicina prepagada;2;1
+5212;59;Bucaramanga;Tomografía;2025-04-04T00:00:00Z;5;38;180000;EPS;3;0
+5303;44;Medellín;Desconocido;2023-01-22T00:00:00Z;4;25;144000;Remitido;1;0
+5374;33;Bogotá;Ecografía;2023-05-20T00:00:00Z;9;31;171000;Medicina prepagada;5;0
+5441;34;Bogotá;Tomografía;2025-08-19T00:00:00Z;1;48;239000;Particular;5;0
+5109;42;Bogotá;Radiografía;2024-05-04T00:00:00Z;6;16;115000;Medicina prepagada;3;1
+5542;48;Medellín;Resonancia;2025-04-14T00:00:00Z;6;54;233000;EPS;5;0
+5408;59;Cali;Ecografía;2024-12-08T00:00:00Z;7;17;110000;Medicina prepagada;4;0
+5304;35;Bogotá;Ecografía;2024-09-10T00:00:00Z;4;23;137000;Remitido;5;1
+5400;32;Bucaramanga;Resonancia;2023-06-24T00:00:00Z;2;35;204000;EPS;3;0
+5280;44;Bogotá;Radiografía;2025-08-25T00:00:00Z;10;15;130000;Particular;1;0
+5026;42;Cali;Ecografía;2025-03-06T00:00:00Z;4;13;87000;EPS;1;0
+5137;44;Bogotá;Radiografía;2025-02-16T00:00:00Z;5;14;118000;Particular;3;0
+5263;54;Bogotá;Laboratorio;2024-06-03T00:00:00Z;6;11;133000;Desconocido;3;0
+5175;26;Cali;Laboratorio;2023-05-22T00:00:00Z;8;12;85000;EPS;1;0
+5047;60;Cali;Laboratorio;2023-11-04T00:00:00Z;8;14;114000;EPS;3;0
+5517;77;Bogotá;Laboratorio;2023-01-28T00:00:00Z;5;10;48000;EPS;4;0
+5084;43;Cali;Resonancia;2023-09-22T00:00:00Z;9;52;251000;EPS;1;0
+5119;62;Bogotá;Desconocido;2025-09-12T00:00:00Z;5;23;127000;EPS;1;0
+5480;40;Medellín;Ecografía;2025-09-18T00:00:00Z;9;16;82000;EPS;1;0
+5225;44;Medellín;Tomografía;2024-06-26T00:00:00Z;3;33;157000;Medicina prepagada;5;0
+5167;15;Medellín;Laboratorio;2024-08-24T00:00:00Z;5;12;100000;Particular;2;0
+5236;21;Bogotá;Resonancia;2023-03-28T00:00:00Z;3;52;215000;Medicina prepagada;5;0
+5190;35;Medellín;Ecografía;2025-10-13T00:00:00Z;5;19;80000;Desconocido;5;0
+5526;43;Bogotá;Radiografía;2023-04-20T00:00:00Z;3;10;66000;EPS;3;0
+5453;44;Bucaramanga;Laboratorio;2024-10-14T00:00:00Z;2;7;50000;EPS;5;0
+5285;65;Medellín;Ecografía;2023-10-20T00:00:00Z;6;30;163000;EPS;4;1
+5269;23;Bogotá;Laboratorio;2023-10-19T00:00:00Z;6;10;99000;Remitido;1;0
+5060;34;Cali;Resonancia;2025-10-15T00:00:00Z;8;65;223500;EPS;5;0
+5560;52;Bogotá;Laboratorio;2023-02-20T00:00:00Z;5;10;87000;Remitido;3;0
+5106;43;Medellín;Laboratorio;2025-10-17T00:00:00Z;6;5;71000;EPS;2;0
+5139;42;Cali;Laboratorio;2023-12-21T00:00:00Z;7;7;65000;Particular;3;0
+5056;57;Bogotá;Radiografía;2024-03-26T00:00:00Z;2;11;66000;Medicina prepagada;1;0
+5554;38;Cali;Radiografía;2023-01-12T00:00:00Z;8;25.5;99000;EPS;3;0
+5234;51;Bucaramanga;Tomografía;2023-01-10T00:00:00Z;6;34;189000;EPS;4;0
+5057;44;Medellín;Tomografía;2023-12-20T00:00:00Z;3;48;202000;Particular;5;0
+5476;28;Cali;Ecografía;2025-04-02T00:00:00Z;7;21;128000;Remitido;3;0
+5343;78;Bogotá;Radiografía;2025-03-18T00:00:00Z;5;18;79000;EPS;1;0
+5238;43;Bucaramanga;Resonancia;2025-03-27T00:00:00Z;10;53;227000;Medicina prepagada;2;0
+5089;65;Bogotá;Tomografía;2025-09-27T00:00:00Z;7;25;119000;EPS;1;0
+5353;50;Medellín;Radiografía;2025-04-20T00:00:00Z;4;12;145000;Particular;4;1
+5025;48;Bogotá;Ecografía;2023-09-10T00:00:00Z;6;24;142000;EPS;1;1
+5115;46;Cali;Ecografía;2025-11-15T00:00:00Z;5;19;115000;EPS;3;0
+5140;28;Bogotá;Tomografía;2024-05-24T00:00:00Z;11;39;218000;EPS;2;0
+5105;31;Bogotá;Tomografía;2025-11-08T00:00:00Z;3;36;177000;Medicina prepagada;5;0
+5205;77;Medellín;Laboratorio;2025-01-31T00:00:00Z;7;10;85000;Medicina prepagada;3;0
+5032;37;Bogotá;Ecografía;2023-04-20T00:00:00Z;5;17;131000;Particular;3;1
+5525;55;Bogotá;Laboratorio;2025-01-18T00:00:00Z;1;6;65000;Remitido;4;0
+5228;34;Medellín;Radiografía;2025-12-25T00:00:00Z;4;18;77000;Particular;2;0
+5288;71;Bogotá;Laboratorio;2024-08-10T00:00:00Z;5;10;134000;Remitido;3;0
+5313;38;Bogotá;Radiografía;2024-10-31T00:00:00Z;7;17;103000;Medicina prepagada;2;1
+5270;43;Bogotá;Resonancia;2024-04-24T00:00:00Z;7;43;198000;EPS;1;1
+5506;38;Medellín;Laboratorio;2023-08-20T00:00:00Z;5;9;64000;EPS;3;0
+5024;50;Medellín;Laboratorio;2023-12-27T00:00:00Z;2;8;44000;Particular;3;0
+5248;8;Medellín;Radiografía;2024-10-24T00:00:00Z;5;15;67000;EPS;2;1
+5165;41;Medellín;Ecografía;2025-05-07T00:00:00Z;1;35;184000;Particular;5;0
+5545;0;Bogotá;Laboratorio;2023-03-26T00:00:00Z;1;11;130000;EPS;2;1
+5341;49;Cali;Laboratorio;2023-05-14T00:00:00Z;4;10;111000;EPS;4;0
+5055;42;Cali;Desconocido;2023-08-08T00:00:00Z;5;9;100000;Particular;3;0
+5528;42;Bogotá;Tomografía;2023-04-12T00:00:00Z;7;32;174000;Medicina prepagada;3;0
+5129;15;Medellín;Radiografía;2025-10-20T00:00:00Z;10;14;163000;EPS;1;0
+5098;51;Medellín;Radiografía;2025-10-19T00:00:00Z;3;14;82000;Remitido;3;0
+5124;11;Medellín;Laboratorio;2025-11-27T00:00:00Z;8;11;85000;Medicina prepagada;5;0
+5356;50;Medellín;Ecografía;2024-01-06T00:00:00Z;9;35;145000;Desconocido;2;0
+5440;45;Bogotá;Resonancia;2024-06-16T00:00:00Z;6;68;313000;EPS;4;0
+5362;77;Medellín;Tomografía;2023-03-12T00:00:00Z;10;43;201000;Medicina prepagada;1;0
+5331;41;Bucaramanga;Radiografía;2023-02-17T00:00:00Z;7;13;31000;Medicina prepagada;4;0
+5471;31;Bogotá;Radiografía;2024-04-13T00:00:00Z;6;12;61000;EPS;5;0
+5099;43;Medellín;Ecografía;2025-11-21T00:00:00Z;6;20;64000;Medicina prepagada;2;0
+5531;41;Bogotá;Laboratorio;2025-11-17T00:00:00Z;6;14;48000;Remitido;4;0
+5241;37;Bucaramanga;Radiografía;2024-12-15T00:00:00Z;8;12;88000;Remitido;4;0
+5462;27;Bogotá;Radiografía;2023-06-20T00:00:00Z;2;17;86000;Medicina prepagada;1;1
+5387;63;Medellín;Laboratorio;2024-02-24T00:00:00Z;10;9;54000;Remitido;1;1
+5203;53;Bogotá;Ecografía;2024-09-12T00:00:00Z;6;22;141000;EPS;1;0
+5004;30;Bogotá;Ecografía;2025-09-08T00:00:00Z;2;37;220000;EPS;4;0
+5557;53;Cali;Ecografía;2024-10-28T00:00:00Z;6;28;147000;EPS;2;0
+5305;34;Cali;Ecografía;2023-02-13T00:00:00Z;6;22;162000;Remitido;3;0
+5178;36;Bogotá;Ecografía;2025-05-25T00:00:00Z;8;24;129000;Medicina prepagada;1;0
+5553;43;Bucaramanga;Radiografía;2024-07-20T00:00:00Z;7;11;75000;EPS;4;0
+5307;54;Bogotá;Radiografía;2025-02-28T00:00:00Z;4;17;85000;EPS;4;0
+5231;43;Cali;Radiografía;2023-06-20T00:00:00Z;7;19;91000;EPS;3;1
+5147;66;Medellín;Ecografía;2024-03-28T00:00:00Z;5;31;125000;EPS;3;0
+5272;22;Bogotá;Radiografía;2023-10-31T00:00:00Z;9;15;85000;Particular;5;0
+5464;44;Bucaramanga;Laboratorio;2025-05-02T00:00:00Z;4;8;58000;EPS;3;1
+5378;32;Cali;Laboratorio;2024-10-29T00:00:00Z;9;8;83000;Remitido;4;0
+5261;46;Desconocido;Radiografía;2023-07-25T00:00:00Z;7;10;83000;EPS;2;1
+5191;22;Bogotá;Radiografía;2023-03-18T00:00:00Z;9;13;100000;EPS;3;0
+5454;27;Bogotá;Ecografía;2025-08-21T00:00:00Z;6;28;143000;Medicina prepagada;2;0
+5544;38;Cali;Radiografía;2025-08-20T00:00:00Z;4;16;119000;EPS;3;0
+5197;59;Cali;Ecografía;2023-06-20T00:00:00Z;3;22;132000;Particular;4;0
+5141;64;Medellín;Ecografía;2024-09-26T00:00:00Z;5;27;120000;Medicina prepagada;1;0
+5083;51;Medellín;Ecografía;2023-10-21T00:00:00Z;7;22;153000;EPS;1;1
+5335;24;Bogotá;Radiografía;2024-09-28T00:00:00Z;4;16;108000;EPS;2;1
+5556;17;Bogotá;Radiografía;2025-03-10T00:00:00Z;3;13;97000;EPS;5;0
+5085;42;Medellín;Radiografía;2024-07-14T00:00:00Z;7;13;89000;Particular;4;0
+5332;42;Cali;Laboratorio;2025-09-06T00:00:00Z;6;11;90000;Medicina prepagada;5;0
+5543;42;Cali;Radiografía;2025-12-29T00:00:00Z;5;17;99000;EPS;2;0
+5180;44;Medellín;Resonancia;2025-08-10T00:00:00Z;7;60;224000;Medicina prepagada;3;0
+5100;10;Bogotá;Laboratorio;2024-08-30T00:00:00Z;1;10;114000;Particular;3;1
+5008;68;Bogotá;Desconocido;2025-02-06T00:00:00Z;4;21;128000;EPS;5;0
+5274;70;Medellín;Ecografía;2023-07-02T00:00:00Z;4;25;136000;Particular;1;0
+5155;39;Cali;Ecografía;2024-04-26T00:00:00Z;2;24;161000;EPS;2;0
+5337;43;Bogotá;Radiografía;2024-08-20T00:00:00Z;4;19;141000;Medicina prepagada;2;1
+5192;61;Bogotá;Radiografía;2023-03-14T00:00:00Z;4;12;100000;Particular;1;0
+5334;50;Medellín;Tomografía;2024-11-26T00:00:00Z;5;26;161000;EPS;3;1
+5386;63;Bucaramanga;Laboratorio;2024-04-20T00:00:00Z;5;11;52000;EPS;3;0
+5051;58;Bucaramanga;Radiografía;2023-03-30T00:00:00Z;5;15;67000;Medicina prepagada;2;1
+5039;35;Bucaramanga;Ecografía;2025-07-13T00:00:00Z;6;22;110000;EPS;2;1
+5006;28;Medellín;Ecografía;2024-12-12T00:00:00Z;3;26.5;127000;Medicina prepagada;2;0
+5076;57;Bogotá;Resonancia;2023-03-06T00:00:00Z;9;42;223000;Remitido;2;1
+5249;33;Bogotá;Radiografía;2023-02-06T00:00:00Z;5;21;85000;Remitido;3;0
+5048;47;Medellín;Resonancia;2023-11-24T00:00:00Z;6;37;182000;EPS;2;0
+5071;56;Medellín;Radiografía;2023-01-18T00:00:00Z;4;19;144000;Particular;5;0
+5319;30;Bogotá;Desconocido;2023-11-14T00:00:00Z;6;21;243000;EPS;3;0
+5226;52;Medellín;Laboratorio;2023-06-16T00:00:00Z;8;12;88000;Particular;4;0
+5287;45;Bucaramanga;Radiografía;2023-01-20T00:00:00Z;10;20;122000;EPS;1;0
+5012;51;Bogotá;Resonancia;2025-05-04T00:00:00Z;3;55;255000;EPS;2;0
+5151;33;Bucaramanga;Tomografía;2025-08-13T00:00:00Z;4;30;161000;Medicina prepagada;3;0
+5421;48;Medellín;Ecografía;2025-08-17T00:00:00Z;6;17;115000;EPS;5;0
+5116;27;Medellín;Laboratorio;2025-05-10T00:00:00Z;9;13;93000;EPS;3;0
+5282;43;Bogotá;Laboratorio;2025-07-11T00:00:00Z;7;13;107000;Remitido;5;0
+5254;46;Cali;Ecografía;2024-11-18T00:00:00Z;8;28;139000;EPS;4;0
+5196;58;Bogotá;Ecografía;2023-04-26T00:00:00Z;5;27;162000;EPS;3;1
+5538;35;Medellín;Tomografía;2023-04-10T00:00:00Z;3;21;164000;Particular;3;0
+5066;42;Medellín;Tomografía;2024-12-25T00:00:00Z;5;36;152000;Remitido;2;0
+5425;24;Cali;Desconocido;2023-12-01T00:00:00Z;8;15;84000;Medicina prepagada;3;0
+5355;49;Cali;Resonancia;2024-12-19T00:00:00Z;10;83.125;212000;EPS;4;0
+5220;19;Bogotá;Radiografía;2023-07-29T00:00:00Z;4;14;113000;Particular;5;0
+5329;53;Bogotá;Tomografía;2023-06-28T00:00:00Z;7;36;176000;EPS;3;0
+5070;31;Cali;Ecografía;2024-10-08T00:00:00Z;4;23;144000;Remitido;3;0
+5094;63;Bogotá;Ecografía;2024-02-20T00:00:00Z;7;20;147000;Medicina prepagada;3;0
+5069;23;Bogotá;Radiografía;2025-04-06T00:00:00Z;9;16;100000;Particular;5;0
+5022;41;Medellín;Laboratorio;2024-04-09T00:00:00Z;7;9;91000;Remitido;1;1
+5078;39;Bucaramanga;Resonancia;2024-02-08T00:00:00Z;11;59;274000;Remitido;5;0
+5397;49;Bogotá;Laboratorio;2023-08-12T00:00:00Z;9;10;86000;Remitido;3;0
+5383;47;Medellín;Ecografía;2023-07-27T00:00:00Z;12;27;149000;EPS;1;1
+5237;60;Medellín;Radiografía;2024-06-20T00:00:00Z;3;16;131000;Particular;1;1
+5372;16;Bucaramanga;Ecografía;2023-09-04T00:00:00Z;10;30;135000;Particular;4;1
+5315;41;Bogotá;Ecografía;2024-12-03T00:00:00Z;8;32;191000;Medicina prepagada;3;0
+5126;51;Medellín;Resonancia;2025-02-18T00:00:00Z;3;40;180000;Remitido;3;0
+5229;28;Bucaramanga;Radiografía;2023-11-16T00:00:00Z;5;16;94000;Medicina prepagada;2;0
+5367;12;Bogotá;Radiografía;2023-05-08T00:00:00Z;6;20;102000;Remitido;3;0
+5043;24;Bogotá;Ecografía;2023-10-06T00:00:00Z;5;34;109000;Medicina prepagada;2;0
+5005;37;Medellín;Ecografía;2023-05-04T00:00:00Z;4;13;132000;EPS;5;0
+5407;29;Bogotá;Laboratorio;2023-05-25T00:00:00Z;5;12;101000;EPS;2;0
+5065;35;Bogotá;Ecografía;2025-08-04T00:00:00Z;5;43.5;84000;EPS;5;0
+5432;36;Medellín;Ecografía;2023-10-17T00:00:00Z;3;27;177000;Medicina prepagada;1;0
+5110;41;Medellín;Radiografía;2024-01-19T00:00:00Z;7;14;120000;EPS;1;0
+5256;29;Bogotá;Radiografía;2024-07-04T00:00:00Z;2;12;125000;Particular;4;0
+5366;52;Medellín;Ecografía;2023-02-08T00:00:00Z;6;18;175000;Remitido;1;0
+5206;70;Medellín;Ecografía;2023-04-01T00:00:00Z;2;27;116000;Medicina prepagada;4;0
+5431;44;Medellín;Ecografía;2023-09-18T00:00:00Z;5;26.5;165000;Remitido;3;0
+5148;42;Medellín;Radiografía;2024-05-20T00:00:00Z;8;19;116000;Medicina prepagada;4;0
+5007;46;Cali;Radiografía;2024-12-21T00:00:00Z;4;16;156000;EPS;3;0
+5291;14;Cali;Radiografía;2024-10-07T00:00:00Z;13;15;100000;EPS;3;0
+5474;32;Bogotá;Tomografía;2025-11-23T00:00:00Z;2;30;155000;Desconocido;4;0
+5370;57;Medellín;Radiografía;2023-06-12T00:00:00Z;5;5.5;54000;Particular;2;1
+5340;71;Cali;Laboratorio;2025-05-13T00:00:00Z;6;7;97000;EPS;1;0
+5398;62;Medellín;Laboratorio;2023-02-18T00:00:00Z;5;12;66000;EPS;5;0
+5363;55;Bogotá;Ecografía;2024-08-14T00:00:00Z;12;27;120000;EPS;1;1
+5260;44;Bogotá;Ecografía;2024-12-27T00:00:00Z;9;24;137000;Remitido;5;0
+5283;43;Bucaramanga;Radiografía;2025-12-07T00:00:00Z;9;19;117000;Particular;1;0
+5123;43;Bogotá;Radiografía;2024-03-20T00:00:00Z;5;18;98000;Particular;5;0
+5079;41;Cali;Desconocido;2024-11-24T00:00:00Z;7;29;174000;Particular;4;0
+5519;32;Bogotá;Laboratorio;2023-04-20T00:00:00Z;7;11;72000;Remitido;1;0
+5321;32;Bogotá;Laboratorio;2023-04-06T00:00:00Z;3;15;85000;EPS;3;0
+5491;59;Bucaramanga;Laboratorio;2024-09-24T00:00:00Z;8;7;146000;Remitido;4;0
+5152;39;Bogotá;Laboratorio;2025-08-04T00:00:00Z;5;8;58000;Medicina prepagada;5;0
+5300;46;Bogotá;Ecografía;2024-07-25T00:00:00Z;8;37;201000;EPS;5;0
+5379;25;Medellín;Radiografía;2023-03-12T00:00:00Z;5;15;99000;EPS;4;0
+5164;20;Medellín;Radiografía;2023-11-06T00:00:00Z;6;10;115000;EPS;2;0
+5443;60;Bogotá;Tomografía;2025-09-10T00:00:00Z;5;37;225000;EPS;5;1
+5326;48;Medellín;Laboratorio;2024-11-08T00:00:00Z;5;7;120000;EPS;4;1
+5266;54;Cali;Ecografía;2023-11-20T00:00:00Z;8;13;90000;EPS;3;0
+5493;21;Medellín;Laboratorio;2023-11-30T00:00:00Z;4;5;41000;Particular;4;0
+5447;52;Medellín;Laboratorio;2024-07-22T00:00:00Z;3;12;113000;EPS;5;0
+5302;54;Bucaramanga;Ecografía;2023-04-01T00:00:00Z;7;11;98000;Particular;5;0
+5279;49;Bucaramanga;Radiografía;2023-06-22T00:00:00Z;4;16;71000;Particular;5;0
+5144;32;Bogotá;Radiografía;2024-09-14T00:00:00Z;8;10;49000;Particular;1;1
+5389;54;Medellín;Tomografía;2024-04-20T00:00:00Z;6;25;151000;Remitido;2;0
+5393;23;Bogotá;Ecografía;2024-10-04T00:00:00Z;5;29;188000;EPS;4;0
+5200;71;Bucaramanga;Ecografía;2023-10-20T00:00:00Z;7;25;168000;Desconocido;4;0
+5042;46;Bogotá;Radiografía;2024-08-22T00:00:00Z;6;20;92000;Medicina prepagada;3;0
+5446;32;Medellín;Radiografía;2025-02-26T00:00:00Z;5;21;156000;Particular;3;0
+5522;32;Bucaramanga;Tomografía;2023-09-20T00:00:00Z;2;40;230000;Remitido;2;0
+5439;19;Bucaramanga;Ecografía;2025-07-09T00:00:00Z;6;16;144000;EPS;1;0
+5365;16;Bucaramanga;Laboratorio;2024-05-30T00:00:00Z;8;11;96000;Remitido;3;0
+5232;32;Bogotá;Tomografía;2024-07-02T00:00:00Z;6;50;193000;EPS;5;0
+5246;65;Medellín;Ecografía;2024-06-12T00:00:00Z;1;29;157000;Remitido;2;0
+5314;41;Bogotá;Tomografía;2024-08-08T00:00:00Z;9;33;181000;EPS;2;0
+5499;63;Medellín;Tomografía;2025-03-23T00:00:00Z;4;26;181000;Particular;5;0
+5333;27;Medellín;Ecografía;2024-01-14T00:00:00Z;9;29;147000;Medicina prepagada;5;0
+5438;60;Cali;Laboratorio;2024-05-16T00:00:00Z;4;7;98000;Remitido;5;0
+5413;68;Cali;Laboratorio;2024-04-15T00:00:00Z;5;10;48000;EPS;3;0
+5264;49;Bogotá;Radiografía;2023-09-06T00:00:00Z;7;15;72000;EPS;3;0
+5030;47;Cali;Ecografía;2023-12-31T00:00:00Z;5;26.5;113000;Medicina prepagada;3;0
+5239;45;Bucaramanga;Resonancia;2023-03-20T00:00:00Z;6;40;169000;EPS;4;0
+5251;1;Cali;Laboratorio;2023-06-26T00:00:00Z;6;7;37000;Medicina prepagada;3;0
+5163;69;Bogotá;Radiografía;2025-11-25T00:00:00Z;3;13;147000;EPS;4;0
+5150;45;Cali;Ecografía;2023-08-29T00:00:00Z;10;30;143000;Medicina prepagada;2;0
+5500;27;Cali;Ecografía;2025-08-31T00:00:00Z;5;27;137000;Desconocido;4;0
+5354;42;Bogotá;Laboratorio;2023-02-05T00:00:00Z;7;9;85000;Medicina prepagada;3;0
+5495;69;Cali;Tomografía;2025-10-31T00:00:00Z;10;42;211000;Medicina prepagada;5;0
+5095;45;Cali;Resonancia;2023-12-05T00:00:00Z;5;64;286000;EPS;5;0
+5009;37;Bucaramanga;Ecografía;2023-03-02T00:00:00Z;7;26;137000;Medicina prepagada;5;0
+5222;28;Medellín;Resonancia;2024-03-22T00:00:00Z;4;43;201000;Medicina prepagada;3;0
+5086;26;Bogotá;Radiografía;2025-10-20T00:00:00Z;3;15;86000;EPS;4;0
+5188;57;Medellín;Laboratorio;2025-03-20T00:00:00Z;5;11;45000;Particular;2;0
+5090;56;Bogotá;Resonancia;2024-10-26T00:00:00Z;6;67;342000;EPS;3;0
+5420;34;Bogotá;Radiografía;2025-06-06T00:00:00Z;8;19;138000;Particular;4;0
+5035;63;Bogotá;Radiografía;2023-11-28T00:00:00Z;4;19;97000;EPS;5;0
+5218;46;Bogotá;Radiografía;2025-07-31T00:00:00Z;10;14;92000;Particular;3;0
+5073;37;Bogotá;Radiografía;2023-11-22T00:00:00Z;8;14;98000;EPS;3;0
+5306;72;Bogotá;Ecografía;2025-10-21T00:00:00Z;5;12;111000;Particular;3;0
+5221;42;Bucaramanga;Tomografía;2025-11-06T00:00:00Z;7;36;129000;Medicina prepagada;1;0
+5403;39;Medellín;Ecografía;2023-03-24T00:00:00Z;5;27;140000;Medicina prepagada;2;0
+5516;67;Medellín;Ecografía;2023-12-25T00:00:00Z;5;20;105000;EPS;5;0
+5396;42;Medellín;Radiografía;2024-05-20T00:00:00Z;4;14;94000;EPS;1;0
+5510;44;Bogotá;Resonancia;2024-06-22T00:00:00Z;10;35;144000;Remitido;3;0
+5111;57;Bogotá;Laboratorio;2024-09-30T00:00:00Z;5;10;68000;Remitido;2;0
+5368;21;Medellín;Laboratorio;2023-04-30T00:00:00Z;6;9;76000;EPS;4;0
+5013;47;Bogotá;Resonancia;2023-02-24T00:00:00Z;7;59;265000;EPS;4;0
+5344;42;Bogotá;Radiografía;2023-05-31T00:00:00Z;8;15;67000;Particular;5;0
+5199;37;Bucaramanga;Ecografía;2024-01-29T00:00:00Z;7;20;145000;EPS;3;0
+5214;43;Bogotá;Radiografía;2023-07-23T00:00:00Z;3;5.5;30000;Medicina prepagada;5;0
+5558;49;Bogotá;Resonancia;2025-01-14T00:00:00Z;11;47;223500;EPS;5;0
+5235;79;Bucaramanga;Tomografía;2023-11-20T00:00:00Z;4;37;197000;Remitido;4;0
+5459;44;Medellín;Laboratorio;2023-08-11T00:00:00Z;9;12;91000;EPS;1;0
+5217;41;Bogotá;Radiografía;2024-12-02T00:00:00Z;2;20;120000;EPS;2;0
+5097;23;Bogotá;Resonancia;2023-12-13T00:00:00Z;8;40;170000;Desconocido;5;0
+5535;22;Bogotá;Radiografía;2024-05-02T00:00:00Z;7;17;112000;Particular;1;0
+5298;41;Bogotá;Tomografía;2024-06-20T00:00:00Z;7;40;199000;EPS;4;0
+5064;25;Medellín;Tomografía;2025-09-24T00:00:00Z;3;26;124000;Medicina prepagada;4;0
+5223;17;Bogotá;Resonancia;2023-11-26T00:00:00Z;5;49;223500;Medicina prepagada;2;0
+5014;29;Cali;Laboratorio;2025-04-22T00:00:00Z;6;5;96000;Particular;3;0
+5328;28;Bogotá;Radiografía;2025-08-29T00:00:00Z;9;13;142000;Remitido;5;0
+5018;37;Medellín;Ecografía;2024-05-18T00:00:00Z;4;31;180000;Remitido;5;0
+5482;44;Medellín;Laboratorio;2025-03-20T00:00:00Z;5;10;67000;Remitido;1;0
+5247;45;Bogotá;Ecografía;2024-02-14T00:00:00Z;4;30;181000;Medicina prepagada;5;0
+5550;25;Bogotá;Ecografía;2023-06-18T00:00:00Z;5;21;120000;EPS;5;0
+5490;58;Desconocido;Resonancia;2025-11-02T00:00:00Z;2;47;212000;Remitido;4;0
+5208;16;Bogotá;Resonancia;2024-01-25T00:00:00Z;7;40;243000;Medicina prepagada;1;0
+5091;45;Bogotá;Radiografía;2023-03-04T00:00:00Z;4;19;124000;Particular;2;0
+5308;46;Bucaramanga;Ecografía;2024-08-28T00:00:00Z;11;35;162000;Particular;3;0
+5342;54;Medellín;Laboratorio;2025-08-15T00:00:00Z;8;8;75000;Particular;1;0
+5381;42;Cali;Laboratorio;2023-07-20T00:00:00Z;10;11;101000;Particular;5;0
+5418;42;Bogotá;Tomografía;2023-02-15T00:00:00Z;6;39;235000;Particular;1;0
+5345;35;Cali;Ecografía;2024-10-10T00:00:00Z;9;20;155000;EPS;5;0
+5435;28;Bogotá;Laboratorio;2024-08-18T00:00:00Z;5;15;146000;Remitido;3;0
+5456;46;Bogotá;Laboratorio;2024-04-22T00:00:00Z;7;9;82000;Remitido;3;0
+5040;43;Medellín;Radiografía;2024-11-28T00:00:00Z;7;19;138000;Remitido;2;0
+5087;45;Bogotá;Ecografía;2024-02-28T00:00:00Z;75;30;173000;EPS;1;0
+5182;36;Bogotá;Radiografía;2024-07-24T00:00:00Z;6;16;76000;Medicina prepagada;5;0
+5452;55;Medellín;Radiografía;2023-07-13T00:00:00Z;8;18;111000;Particular;2;0
+5547;40;Bucaramanga;Laboratorio;2024-12-11T00:00:00Z;8;5;64000;Remitido;5;0
+5146;23;Medellín;Laboratorio;2024-07-20T00:00:00Z;8;6;76000;Remitido;1;0
+5159;73;Bogotá;Ecografía;2025-11-19T00:00:00Z;5;26;131000;Remitido;4;0
+5173;36;Cali;Ecografía;2025-09-04T00:00:00Z;1;28;186000;EPS;5;0
+5524;27;Medellín;Laboratorio;2025-12-20T00:00:00Z;8;7;46000;EPS;3;0
+5486;27;Bogotá;Radiografía;2024-01-10T00:00:00Z;9;18;144000;EPS;3;0
+5409;53;Bogotá;Laboratorio;2025-10-01T00:00:00Z;7;10;125000;Remitido;1;0
+5461;56;Medellín;Laboratorio;2024-09-18T00:00:00Z;5;6;72000;EPS;4;0
+5201;24;Bogotá;Ecografía;2024-02-20T00:00:00Z;5;29;123000;Medicina prepagada;3;0
+5427;51;Bucaramanga;Ecografía;2024-03-01T00:00:00Z;8;20;187000;Remitido;5;0
+5382;25;Bogotá;Radiografía;2025-09-26T00:00:00Z;5;15;106000;Remitido;1;0
+5293;61;Bogotá;Radiografía;2023-09-26T00:00:00Z;3;14;64000;EPS;1;0
+5349;61;Bogotá;Ecografía;2025-01-04T00:00:00Z;5;32;144000;Medicina prepagada;3;0
+5072;11;Cali;Radiografía;2024-04-01T00:00:00Z;6;15;108000;Remitido;1;0
+5515;44;Bogotá;Ecografía;2025-01-22T00:00:00Z;4;32;192000;Particular;3;0
+5537;22;Cali;Ecografía;2023-10-29T00:00:00Z;10;21;115000;Particular;1;1
+5478;14;Medellín;Ecografía;2024-03-08T00:00:00Z;5;19;144000;EPS;5;1
+5518;43;Bogotá;Radiografía;2023-04-16T00:00:00Z;6;16;100000;Medicina prepagada;1;0
+5107;48;Cali;Ecografía;2025-03-16T00:00:00Z;11;27;163000;EPS;2;0
+5352;36;Bogotá;Ecografía;2024-12-01T00:00:00Z;10;26;126000;EPS;1;0
+5511;44;Bucaramanga;Ecografía;2023-12-11T00:00:00Z;8;17;127000;Particular;4;0
+5134;19;Bogotá;Ecografía;2023-06-10T00:00:00Z;5;40;191000;EPS;3;0
+5061;48;Desconocido;Radiografía;2024-11-16T00:00:00Z;7;13;76000;Particular;1;1
+5523;44;Bogotá;Tomografía;2024-05-06T00:00:00Z;9;31;170000;Remitido;2;0
+5027;2;Medellín;Ecografía;2025-05-20T00:00:00Z;6;24;96000;Remitido;5;0
+5394;20;Medellín;Radiografía;2024-12-10T00:00:00Z;4;17;134000;EPS;3;0
+5101;40;Bogotá;Laboratorio;2023-03-08T00:00:00Z;3;10;36000;Desconocido;3;0
+5020;23;Medellín;Radiografía;2025-02-20T00:00:00Z;3;15;75000;Medicina prepagada;3;0
+5507;30;Bogotá;Radiografía;2023-12-07T00:00:00Z;9;22;144000;Particular;4;0
+5463;14;Bogotá;Laboratorio;2025-05-19T00:00:00Z;3;7;103000;Medicina prepagada;2;0
+5265;27;Medellín;Ecografía;2023-09-16T00:00:00Z;2;27;150000;Medicina prepagada;1;0
+5277;51;Cali;Ecografía;2024-02-16T00:00:00Z;7;32;206000;Particular;1;0
+5364;46;Bogotá;Laboratorio;2025-12-20T00:00:00Z;7;15.5;138000;Remitido;2;0
+5310;26;Medellín;Radiografía;2025-04-24T00:00:00Z;6;19;102000;Remitido;3;0
+5284;42;Bogotá;Radiografía;2025-04-26T00:00:00Z;6;16;112000;Desconocido;4;0
+5502;19;Medellín;Tomografía;2023-05-29T00:00:00Z;7;36;183000;EPS;4;0
+5093;39;Medellín;Desconocido;2025-07-25T00:00:00Z;5;30;196000;Particular;4;0
+5253;68;Medellín;Radiografía;2025-06-16T00:00:00Z;5;15;107000;Remitido;3;0
+5033;28;Desconocido;Radiografía;2024-06-18T00:00:00Z;5;11;112000;Particular;2;0
+5428;27;Bogotá;Laboratorio;2025-05-15T00:00:00Z;8;12;88000;Medicina prepagada;5;0
+5442;28;Bogotá;Ecografía;2023-06-06T00:00:00Z;4;28;151000;EPS;5;0
+5136;43;Medellín;Laboratorio;2024-04-21T00:00:00Z;5;11;64000;Medicina prepagada;5;1
+5477;24;Cali;Resonancia;2024-03-14T00:00:00Z;6;47;240000;Particular;2;0
+5023;23;Bogotá;Ecografía;2025-05-27T00:00:00Z;5;31;207000;Particular;4;0
+5466;19;Bogotá;Ecografía;2024-10-06T00:00:00Z;12;23;105000;EPS;5;0
+5063;47;Cali;Ecografía;2025-06-04T00:00:00Z;5;27;137000;EPS;3;0
+5149;61;Bogotá;Laboratorio;2025-05-23T00:00:00Z;4;15.5;90000;EPS;2;0
+5484;46;Bogotá;Ecografía;2025-05-31T00:00:00Z;2;32;192000;Desconocido;3;0
+5216;43;Bogotá;Radiografía;2023-08-26T00:00:00Z;5;15;97000;Particular;3;0
+5530;29;Medellín;Resonancia;2024-12-10T00:00:00Z;6;43;198000;Remitido;4;0
+5448;41;Bogotá;Laboratorio;2025-06-27T00:00:00Z;7;11;146000;Particular;2;0
+5540;10;Medellín;Radiografía;2024-08-04T00:00:00Z;4;13;71000;Medicina prepagada;1;0
+5258;48;Bogotá;Ecografía;2023-12-29T00:00:00Z;8;20;143000;Medicina prepagada;4;0
+5053;46;Desconocido;Laboratorio;2025-05-17T00:00:00Z;6;9;63000;EPS;2;0
+5243;44;Bogotá;Tomografía;2025-11-05T00:00:00Z;4;36;197000;Remitido;3;0
+5174;43;Bogotá;Radiografía;2025-09-16T00:00:00Z;9;14;106000;Remitido;1;1
+5036;31;Medellín;Laboratorio;2025-07-15T00:00:00Z;7;15;101000;Medicina prepagada;2;0
+5450;55;Bogotá;Laboratorio;2023-12-09T00:00:00Z;8;13;138000;EPS;5;0
+5179;50;Medellín;Ecografía;2024-02-20T00:00:00Z;9;22;117000;Particular;4;0
+5168;57;Bogotá;Laboratorio;2025-02-14T00:00:00Z;6;15.5;71000;Remitido;5;0
+5227;28;Cali;Radiografía;2023-06-08T00:00:00Z;4;22;122000;Remitido;2;0
+5121;43;Bogotá;Resonancia;2024-12-14T00:00:00Z;4;48;246000;Remitido;3;0
+5401;48;Bucaramanga;Ecografía;2024-11-20T00:00:00Z;6;31;151000;Particular;3;0
+5276;58;Desconocido;Ecografía;2025-04-12T00:00:00Z;6;26.5;99000;Particular;5;0
+5045;68;Bogotá;Laboratorio;2025-01-20T00:00:00Z;4;12;65000;Remitido;3;0
+5301;71;Bogotá;Laboratorio;2024-02-26T00:00:00Z;8;7;101000;Remitido;4;0
+5325;35;Medellín;Radiografía;2024-01-17T00:00:00Z;3;9;84000;Particular;1;0
+5077;39;Bogotá;Laboratorio;2024-06-08T00:00:00Z;8;9;114000;EPS;5;0
+5209;59;Cali;Resonancia;2024-05-08T00:00:00Z;8;57;268000;EPS;2;0
+5369;60;Medellín;Tomografía;2024-08-26T00:00:00Z;8;32;189000;EPS;2;0
+5395;59;Bogotá;Ecografía;2025-09-20T00:00:00Z;6;17;94000;EPS;1;1
+5213;17;Medellín;Resonancia;2024-09-01T00:00:00Z;4;55;208000;Particular;2;0
+5268;64;Medellín;Tomografía;2024-07-27T00:00:00Z;4;30;163000;Particular;1;0
+5312;60;Bogotá;Radiografía;2023-05-27T00:00:00Z;8;24;112000;EPS;5;0
+5445;70;Medellín;Tomografía;2023-08-18T00:00:00Z;5;29;164000;Particular;1;1
+5504;69;Bucaramanga;Laboratorio;2025-12-27T00:00:00Z;5;8;84000;Particular;3;0
+5496;1;Bogotá;Resonancia;2025-04-28T00:00:00Z;4;51;237000;Particular;3;1
+5034;31;Bogotá;Laboratorio;2023-04-18T00:00:00Z;7;8;100000;Particular;1;0
+5010;34;Bucaramanga;Ecografía;2024-09-03T00:00:00Z;4;30;144000;Particular;4;0
+5161;27;Bucaramanga;Resonancia;2023-01-16T00:00:00Z;3;68;318000;EPS;3;0
+5286;51;Bucaramanga;Tomografía;2023-08-14T00:00:00Z;7;36;167000;Particular;5;0
+5296;47;Medellín;Radiografía;2023-05-16T00:00:00Z;7;15;162000;Medicina prepagada;3;0
+5278;1;Bogotá;Laboratorio;2025-08-06T00:00:00Z;5;11;83000;EPS;2;0
+5532;36;Cali;Ecografía;2025-12-15T00:00:00Z;6;23;113000;EPS;3;0
+5485;77;Medellín;Resonancia;2024-11-30T00:00:00Z;7;46;208000;Particular;1;0
+5497;54;Medellín;Laboratorio;2025-03-31T00:00:00Z;7;9;77000;Particular;1;0
+5183;56;Bogotá;Laboratorio;2025-02-08T00:00:00Z;5;9;65000;Medicina prepagada;1;0
+5555;54;Cali;Ecografía;2024-12-06T00:00:00Z;7;26;144000;EPS;5;0
+5037;44;Bucaramanga;Laboratorio;2023-01-01T00:00:00Z;5;11;113000;Particular;4;0
+5157;22;Bogotá;Ecografía;2024-12-17T00:00:00Z;6;29;177000;EPS;4;1
+5003;40;Medellín;Tomografía;2023-08-16T00:00:00Z;4;29;184000;EPS;3;1
+5509;38;Bucaramanga;Ecografía;2025-09-02T00:00:00Z;8;29;194000;EPS;1;1
+5498;27;Cali;Tomografía;2023-08-20T00:00:00Z;7;43;198000;Particular;4;0
+5290;38;Medellín;Resonancia;2025-05-06T00:00:00Z;12;67;301000;EPS;5;1
+5415;40;Bogotá;Resonancia;2025-10-25T00:00:00Z;6;55;233000;Remitido;3;0
+5422;17;Bucaramanga;Resonancia;2023-10-12T00:00:00Z;4;31;168000;Particular;3;0
+5142;36;Cali;Radiografía;2025-12-11T00:00:00Z;8;14;89000;Remitido;1;0
+5224;54;Medellín;Radiografía;2024-06-01T00:00:00Z;7;15;52000;EPS;1;0
+5184;40;Bogotá;Laboratorio;2024-08-06T00:00:00Z;12;6;85000;Particular;2;0
+5548;36;Medellín;Ecografía;2024-08-01T00:00:00Z;6;22;130000;EPS;4;0
+5512;43;Medellín;Ecografía;2023-02-20T00:00:00Z;11;26;144000;EPS;1;0
+5118;43;Bucaramanga;Radiografía;2025-12-17T00:00:00Z;10;19;127000;EPS;2;0
+5002;43;Bucaramanga;Ecografía;2023-04-22T00:00:00Z;3;24;119000;Particular;1;0
+5114;44;Bogotá;Radiografía;2023-09-24T00:00:00Z;3;13;83000;Particular;2;0
+5166;43;Cali;Ecografía;2024-03-18T00:00:00Z;9;33;165000;Medicina prepagada;3;0
+5185;42;Bogotá;Tomografía;2025-01-06T00:00:00Z;9;43;227000;Remitido;2;0
+5373;39;Bogotá;Laboratorio;2025-04-18T00:00:00Z;6;12;93000;Particular;4;0
+5275;37;Medellín;Resonancia;2025-07-21T00:00:00Z;8;59;266000;Medicina prepagada;4;0
+5001;45;Bucaramanga;Desconocido;2024-01-21T00:00:00Z;4;9;126000;EPS;5;0
+5541;47;Bogotá;Resonancia;2023-08-31T00:00:00Z;13;47;218000;Remitido;4;0
+5501;40;Medellín;Tomografía;2024-06-14T00:00:00Z;2;31;145000;Remitido;3;0
+5384;25;Bogotá;Laboratorio;2023-04-20T00:00:00Z;5;10;94000;EPS;5;1
+5406;24;Cali;Tomografía;2024-10-22T00:00:00Z;3;36;164000;EPS;3;0
+5021;14;Bucaramanga;Resonancia;2023-04-24T00:00:00Z;9;40;224000;Desconocido;5;0
+5177;68;Cali;Desconocido;2024-04-19T00:00:00Z;6;21;89000;EPS;3;0
+5336;26;Bucaramanga;Laboratorio;2025-06-12T00:00:00Z;6;8;47000;EPS;5;0
+5380;44;Bogotá;Ecografía;2023-07-21T00:00:00Z;4;32;160000;EPS;4;0
+5546;43;Medellín;Laboratorio;2023-03-16T00:00:00Z;10;7;27000;EPS;2;1
+5172;53;Bogotá;Radiografía;2025-01-16T00:00:00Z;3;14;81000;Medicina prepagada;2;1
+5520;43;Medellín;Radiografía;2025-10-29T00:00:00Z;4;8;50000;Medicina prepagada;3;0
+5508;13;Bucaramanga;Resonancia;2023-10-27T00:00:00Z;6;36;182000;Medicina prepagada;2;0
+5153;35;Bogotá;Laboratorio;2024-06-11T00:00:00Z;5;3.5;81000;EPS;1;0
+5414;38;Medellín;Laboratorio;2024-07-18T00:00:00Z;6;9;77000;EPS;3;0
+5317;18;Medellín;Ecografía;2023-09-02T00:00:00Z;7;21;177000;Remitido;1;1
+5259;46;Cali;Tomografía;2023-04-28T00:00:00Z;5;28;209000;Remitido;1;1
+5475;52;Bogotá;Ecografía;2025-12-09T00:00:00Z;7;18;69000;EPS;5;0
+5338;30;Bogotá;Ecografía;2025-10-09T00:00:00Z;10;28;169000;EPS;5;0
+5539;40;Bogotá;Ecografía;2023-01-20T00:00:00Z;4;18;89000;Desconocido;3;0
+5505;59;Bogotá;Resonancia;2024-06-28T00:00:00Z;7;74;109500;Remitido;3;0
+5399;16;Bogotá;Ecografía;2025-08-08T00:00:00Z;4;21;137000;Particular;3;0
+5424;62;Bucaramanga;Radiografía;2025-03-04T00:00:00Z;7;17;133000;EPS;2;0
+5481;49;Medellín;Tomografía;2023-10-13T00:00:00Z;8;39;157000;EPS;2;0
+5423;38;Bucaramanga;Resonancia;2023-07-15T00:00:00Z;5;53;263000;Particular;3;0
+5120;48;Bogotá;Tomografía;2024-05-26T00:00:00Z;1;36;163000;EPS;1;0
+5257;64;Bogotá;Laboratorio;2023-01-26T00:00:00Z;6;9;20000;EPS;3;0
+5250;12;Bogotá;Ecografía;2024-09-22T00:00:00Z;6;37;205000;EPS;2;1
